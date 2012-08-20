@@ -1,0 +1,1313 @@
+Jan 12 19:50:17 client  load [cpu0:0%] [cpu1:2%] [cpu2:1%] [cpu3:2%] 
+Jan 12 19:50:17 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] 
+Jan 12 19:50:18 client  load [cpu0:0%] [cpu1:0%] [cpu2:0%] [cpu3:2%] 
+Jan 12 19:50:18 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] 
+Jan 12 19:50:19 client  load [cpu0:0%] [cpu1:0%] [cpu2:0%] [cpu3:2%] 
+Jan 12 19:50:19 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] 
+Jan 12 19:50:20 client  load [cpu0:0%] [cpu1:0%] [cpu2:0%] [cpu3:0%] 
+Jan 12 19:50:20 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] 
+Jan 12 19:50:21 client  load [cpu0:0%] [cpu1:1%] [cpu2:0%] [cpu3:3%] 
+Jan 12 19:50:21 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] 
+Jan 12 19:50:22 client  load [cpu0:5%] [cpu1:10%] [cpu2:3%] [cpu3:5%] 
+Jan 12 19:50:22 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] 
+Jan 12 19:50:23 client  load [cpu0:13%] [cpu1:2%] [cpu2:2%] [cpu3:9%] 
+Jan 12 19:50:23 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] 
+Jan 12 19:50:24 client  load [cpu0:1%] [cpu1:1%] [cpu2:1%] [cpu3:7%] 
+Jan 12 19:50:24 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] 
+Jan 12 19:50:25 client  load [cpu0:0%] [cpu1:0%] [cpu2:0%] [cpu3:7%] 
+Jan 12 19:50:25 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] 
+Jan 12 19:50:26 client  load [cpu0:0%] [cpu1:0%] [cpu2:0%] [cpu3:11%] 
+Jan 12 19:50:26 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] 
+Jan 12 19:50:27 client  load [cpu0:3%] [cpu1:0%] [cpu2:0%] [cpu3:12%] 
+Jan 12 19:50:27 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] 
+Jan 12 19:50:28 client  load [cpu0:7%] [cpu1:1%] [cpu2:1%] [cpu3:4%] 
+Jan 12 19:50:28 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] 
+Jan 12 19:50:29 client  load [cpu0:6%] [cpu1:0%] [cpu2:0%] [cpu3:2%] 
+Jan 12 19:50:29 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] 
+Jan 12 19:50:30 client  load [cpu0:4%] [cpu1:0%] [cpu2:0%] [cpu3:1%] 
+Jan 12 19:50:30 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] 
+Jan 12 19:50:31 client  load [cpu0:5%] [cpu1:0%] [cpu2:0%] [cpu3:1%] 
+Jan 12 19:50:31 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] 
+Jan 12 19:50:32 client  load [cpu0:7%] [cpu1:0%] [cpu2:0%] [cpu3:1%] 
+Jan 12 19:50:32 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] 
+Jan 12 19:50:33 client  load [cpu0:8%] [cpu1:9%] [cpu2:4%] [cpu3:8%] 
+Jan 12 19:50:33 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] 
+Jan 12 19:50:34 client  load [cpu0:4%] [cpu1:0%] [cpu2:1%] [cpu3:1%] 
+Jan 12 19:50:34 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] 
+Jan 12 19:50:35 client  load [cpu0:6%] [cpu1:0%] [cpu2:2%] [cpu3:1%] 
+Jan 12 19:50:35 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] 
+Jan 12 19:50:36 client  load [cpu0:5%] [cpu1:0%] [cpu2:1%] [cpu3:0%] 
+Jan 12 19:50:36 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] 
+Jan 12 19:50:37 client  load [cpu0:3%] [cpu1:0%] [cpu2:0%] [cpu3:1%] 
+Jan 12 19:50:37 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] 
+Jan 12 19:50:38 client  load [cpu0:3%] [cpu1:0%] [cpu2:0%] [cpu3:0%] 
+Jan 12 19:50:38 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] 
+Jan 12 19:50:39 client  load [cpu0:4%] [cpu1:1%] [cpu2:0%] [cpu3:2%] 
+Jan 12 19:50:39 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] 
+Jan 12 19:50:40 client  load [cpu0:6%] [cpu1:1%] [cpu2:1%] [cpu3:1%] 
+Jan 12 19:50:40 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] 
+Jan 12 19:50:41 client  load [cpu0:4%] [cpu1:0%] [cpu2:0%] [cpu3:1%] 
+Jan 12 19:50:41 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] 
+Jan 12 19:50:42 client  load [cpu0:5%] [cpu1:0%] [cpu2:0%] [cpu3:0%] 
+Jan 12 19:50:42 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] 
+Jan 12 19:50:43 client  load [cpu0:6%] [cpu1:1%] [cpu2:1%] [cpu3:2%] 
+Jan 12 19:50:43 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] 
+Jan 12 19:50:44 client  load [cpu0:3%] [cpu1:0%] [cpu2:0%] [cpu3:4%] 
+Jan 12 19:50:44 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] 
+Jan 12 19:50:45 client  load [cpu0:2%] [cpu1:0%] [cpu2:0%] [cpu3:1%] 
+Jan 12 19:50:45 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] 
+Jan 12 19:50:46 client  load [cpu0:0%] [cpu1:4%] [cpu2:1%] [cpu3:2%] 
+Jan 12 19:50:46 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] 
+Jan 12 19:50:46 client  robots: 0
+Jan 12 19:50:47 client  load [cpu0:0%] [cpu1:2%] [cpu2:1%] [cpu3:3%] 
+Jan 12 19:50:47 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:46MB] 
+Jan 12 19:50:47 client  robots: 0
+Jan 12 19:50:48 client  load [cpu0:2%] [cpu1:0%] [cpu2:0%] [cpu3:1%] 
+Jan 12 19:50:48 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:46MB] 
+Jan 12 19:50:48 client  robots: 0
+Jan 12 19:50:49 client  load [cpu0:1%] [cpu1:1%] [cpu2:0%] [cpu3:2%] 
+Jan 12 19:50:49 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:46MB] 
+Jan 12 19:50:49 client  robots: 0
+Jan 12 19:50:50 client  load [cpu0:0%] [cpu1:0%] [cpu2:0%] [cpu3:0%] 
+Jan 12 19:50:50 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:46MB] 
+Jan 12 19:50:50 client  robots: 0
+Jan 12 19:50:51 client  load [cpu0:0%] [cpu1:1%] [cpu2:0%] [cpu3:0%] 
+Jan 12 19:50:51 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:46MB] 
+Jan 12 19:50:51 client  robots: 0
+Jan 12 19:50:52 client  load [cpu0:0%] [cpu1:0%] [cpu2:0%] [cpu3:0%] 
+Jan 12 19:50:52 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:46MB] 
+Jan 12 19:50:52 client  robots: 0
+Jan 12 19:50:53 client  load [cpu0:0%] [cpu1:2%] [cpu2:0%] [cpu3:0%] 
+Jan 12 19:50:53 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:46MB] 
+Jan 12 19:50:53 client  robots: 0
+Jan 12 19:50:54 client  load [cpu0:0%] [cpu1:0%] [cpu2:0%] [cpu3:0%] 
+Jan 12 19:50:54 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:46MB] 
+Jan 12 19:50:54 client  robots: 0
+Jan 12 19:50:55 client  load [cpu0:0%] [cpu1:1%] [cpu2:1%] [cpu3:0%] 
+Jan 12 19:50:55 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:46MB] 
+Jan 12 19:50:55 client  robots: 0
+Jan 12 19:50:56 client  load [cpu0:0%] [cpu1:0%] [cpu2:1%] [cpu3:4%] 
+Jan 12 19:50:56 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:46MB] 
+Jan 12 19:50:56 client  robots: 0
+Jan 12 19:50:57 client  load [cpu0:0%] [cpu1:1%] [cpu2:1%] [cpu3:0%] 
+Jan 12 19:50:57 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:46MB] 
+Jan 12 19:50:57 client  robots: 0
+Jan 12 19:50:58 client  load [cpu0:0%] [cpu1:3%] [cpu2:0%] [cpu3:5%] 
+Jan 12 19:50:58 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:46MB] 
+Jan 12 19:50:58 client  robots: 0
+Jan 12 19:50:59 client  load [cpu0:0%] [cpu1:1%] [cpu2:0%] [cpu3:0%] 
+Jan 12 19:50:59 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:46MB] 
+Jan 12 19:50:59 client  robots: 0
+Jan 12 19:53:40 client  load [cpu0:0%] [cpu1:2%] [cpu2:0%] [cpu3:2%] 
+Jan 12 19:53:40 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:46MB] 
+Jan 12 19:53:41 client  load [cpu0:0%] [cpu1:4%] [cpu2:0%] [cpu3:3%] 
+Jan 12 19:53:41 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:46MB] 
+Jan 12 19:53:42 client  load [cpu0:0%] [cpu1:0%] [cpu2:0%] [cpu3:0%] 
+Jan 12 19:53:42 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:46MB] 
+Jan 12 19:53:43 client  load [cpu0:0%] [cpu1:0%] [cpu2:0%] [cpu3:0%] 
+Jan 12 19:53:43 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:46MB] 
+Jan 12 19:53:44 client  load [cpu0:0%] [cpu1:0%] [cpu2:0%] [cpu3:2%] 
+Jan 12 19:53:44 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:46MB] 
+Jan 12 19:53:45 client  load [cpu0:0%] [cpu1:0%] [cpu2:0%] [cpu3:0%] 
+Jan 12 19:53:45 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:46MB] 
+Jan 12 19:53:46 client  load [cpu0:0%] [cpu1:0%] [cpu2:0%] [cpu3:1%] 
+Jan 12 19:53:46 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:46MB] 
+Jan 12 19:53:47 client  load [cpu0:0%] [cpu1:0%] [cpu2:0%] [cpu3:0%] 
+Jan 12 19:53:47 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:46MB] 
+Jan 12 19:53:48 client  load [cpu0:0%] [cpu1:1%] [cpu2:0%] [cpu3:0%] 
+Jan 12 19:53:48 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:46MB] 
+Jan 12 19:53:49 client  load [cpu0:1%] [cpu1:4%] [cpu2:5%] [cpu3:2%] 
+Jan 12 19:53:49 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:46MB] 
+Jan 12 19:53:49 client  robots: 0
+Jan 12 19:53:50 client  load [cpu0:0%] [cpu1:3%] [cpu2:1%] [cpu3:3%] 
+Jan 12 19:53:50 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:46MB] 
+Jan 12 19:53:50 client  robots: 0
+Jan 12 19:53:51 client  load [cpu0:0%] [cpu1:1%] [cpu2:0%] [cpu3:0%] 
+Jan 12 19:53:51 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:46MB] 
+Jan 12 19:53:51 client  robots: 0
+Jan 12 19:53:52 client  load [cpu0:1%] [cpu1:4%] [cpu2:1%] [cpu3:2%] 
+Jan 12 19:53:52 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:46MB] 
+Jan 12 19:53:52 client  robots: 0
+Jan 12 19:53:53 client  load [cpu0:0%] [cpu1:0%] [cpu2:0%] [cpu3:2%] 
+Jan 12 19:53:53 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:46MB] 
+Jan 12 19:53:53 client  robots: 0
+Jan 12 19:53:54 client  load [cpu0:1%] [cpu1:1%] [cpu2:0%] [cpu3:4%] 
+Jan 12 19:53:54 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:46MB] 
+Jan 12 19:53:54 client  robots: 0
+Jan 12 19:53:55 client  load [cpu0:0%] [cpu1:1%] [cpu2:0%] [cpu3:1%] 
+Jan 12 19:53:55 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:46MB] 
+Jan 12 19:53:55 client  robots: 0
+Jan 12 19:53:56 client  load [cpu0:0%] [cpu1:0%] [cpu2:0%] [cpu3:5%] 
+Jan 12 19:53:56 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:46MB] 
+Jan 12 19:53:56 client  robots: 0
+Jan 12 19:53:57 client  load [cpu0:0%] [cpu1:3%] [cpu2:0%] [cpu3:1%] 
+Jan 12 19:53:57 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:46MB] 
+Jan 12 19:53:57 client  robots: 0
+Jan 12 19:53:58 client  load [cpu0:0%] [cpu1:2%] [cpu2:0%] [cpu3:1%] 
+Jan 12 19:53:58 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:46MB] 
+Jan 12 19:53:58 client  robots: 0
+Jan 12 19:53:59 client  load [cpu0:0%] [cpu1:1%] [cpu2:0%] [cpu3:2%] 
+Jan 12 19:53:59 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:46MB] 
+Jan 12 19:53:59 client  robots: 0
+Jan 12 19:54:0 client  load [cpu0:1%] [cpu1:1%] [cpu2:0%] [cpu3:3%] 
+Jan 12 19:54:0 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:46MB] 
+Jan 12 19:54:0 client  robots: 0
+Jan 12 19:54:1 client  load [cpu0:0%] [cpu1:0%] [cpu2:0%] [cpu3:0%] 
+Jan 12 19:54:1 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:46MB] 
+Jan 12 19:54:1 client  robots: 0
+Jan 12 19:54:2 client  load [cpu0:0%] [cpu1:21%] [cpu2:0%] [cpu3:6%] 
+Jan 12 19:54:2 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:51MB] 
+Jan 12 19:54:2 client  robots: 586
+Jan 12 19:54:3 client  load [cpu0:41%] [cpu1:47%] [cpu2:0%] [cpu3:42%] 
+Jan 12 19:54:3 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:74MB] 
+Jan 12 19:54:3 client  robots: 1776
+Jan 12 19:54:4 client  load [cpu0:29%] [cpu1:33%] [cpu2:0%] [cpu3:21%] 
+Jan 12 19:54:4 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:81MB] 
+Jan 12 19:54:4 client  robots: 2000
+Jan 12 19:54:5 client  load [cpu0:0%] [cpu1:0%] [cpu2:0%] [cpu3:2%] 
+Jan 12 19:54:5 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:81MB] 
+Jan 12 19:54:5 client  robots: 2000
+Jan 12 19:54:6 client  load [cpu0:0%] [cpu1:0%] [cpu2:0%] [cpu3:0%] 
+Jan 12 19:54:6 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:81MB] 
+Jan 12 19:54:6 client  robots: 2000
+Jan 12 19:54:7 client  load [cpu0:1%] [cpu1:2%] [cpu2:0%] [cpu3:1%] 
+Jan 12 19:54:7 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:81MB] 
+Jan 12 19:54:7 client  robots: 2000
+Jan 12 19:54:8 client  load [cpu0:31%] [cpu1:32%] [cpu2:14%] [cpu3:25%] 
+Jan 12 19:54:8 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:91MB] 
+Jan 12 19:54:8 client  robots: 2591
+Jan 12 19:54:9 client  load [cpu0:41%] [cpu1:34%] [cpu2:35%] [cpu3:33%] 
+Jan 12 19:54:9 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:105MB] 
+Jan 12 19:54:9 client  robots: 3356
+Jan 12 19:54:10 client  load [cpu0:31%] [cpu1:33%] [cpu2:36%] [cpu3:49%] 
+Jan 12 19:54:10 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:119MB] 
+Jan 12 19:54:10 client  robots: 4000
+Jan 12 19:54:11 client  load [cpu0:31%] [cpu1:18%] [cpu2:19%] [cpu3:5%] 
+Jan 12 19:54:11 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:122MB] 
+Jan 12 19:54:11 client  robots: 4000
+Jan 12 19:54:12 client  load [cpu0:9%] [cpu1:26%] [cpu2:0%] [cpu3:13%] 
+Jan 12 19:54:12 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:125MB] 
+Jan 12 19:54:12 client  robots: 4000
+Jan 12 19:54:13 client  load [cpu0:0%] [cpu1:15%] [cpu2:0%] [cpu3:13%] 
+Jan 12 19:54:13 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:126MB] 
+Jan 12 19:54:13 client  robots: 4000
+Jan 12 19:54:14 client  load [cpu0:0%] [cpu1:13%] [cpu2:0%] [cpu3:10%] 
+Jan 12 19:54:14 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:128MB] 
+Jan 12 19:54:14 client  robots: 4000
+Jan 12 19:54:15 client  load [cpu0:1%] [cpu1:38%] [cpu2:0%] [cpu3:31%] 
+Jan 12 19:54:15 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:132MB] 
+Jan 12 19:54:15 client  robots: 4000
+Jan 12 19:54:16 client  load [cpu0:0%] [cpu1:23%] [cpu2:0%] [cpu3:43%] 
+Jan 12 19:54:16 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:135MB] 
+Jan 12 19:54:16 client  robots: 4000
+Jan 12 19:54:17 client  load [cpu0:1%] [cpu1:1%] [cpu2:1%] [cpu3:56%] 
+Jan 12 19:54:17 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:136MB] 
+Jan 12 19:54:17 client  robots: 4000
+Jan 12 19:54:18 client  load [cpu0:8%] [cpu1:1%] [cpu2:0%] [cpu3:47%] 
+Jan 12 19:54:18 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:137MB] 
+Jan 12 19:54:18 client  robots: 4000
+Jan 12 19:54:19 client  load [cpu0:48%] [cpu1:3%] [cpu2:0%] [cpu3:55%] 
+Jan 12 19:54:19 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:155MB] 
+Jan 12 19:54:19 client  robots: 5137
+Jan 12 19:54:20 client  load [cpu0:41%] [cpu1:0%] [cpu2:33%] [cpu3:58%] 
+Jan 12 19:54:20 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:173MB] 
+Jan 12 19:54:20 client  robots: 6000
+Jan 12 19:54:21 client  load [cpu0:34%] [cpu1:6%] [cpu2:13%] [cpu3:35%] 
+Jan 12 19:54:21 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:174MB] 
+Jan 12 19:54:21 client  robots: 6000
+Jan 12 19:54:22 client  load [cpu0:0%] [cpu1:27%] [cpu2:0%] [cpu3:30%] 
+Jan 12 19:54:22 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:174MB] 
+Jan 12 19:54:22 client  robots: 6000
+Jan 12 19:54:23 client  load [cpu0:30%] [cpu1:0%] [cpu2:0%] [cpu3:39%] 
+Jan 12 19:54:23 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:176MB] 
+Jan 12 19:54:23 client  robots: 6000
+Jan 12 19:54:24 client  load [cpu0:43%] [cpu1:1%] [cpu2:2%] [cpu3:44%] 
+Jan 12 19:54:24 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:179MB] 
+Jan 12 19:54:24 client  robots: 6000
+Jan 12 19:54:25 client  load [cpu0:27%] [cpu1:1%] [cpu2:38%] [cpu3:51%] 
+Jan 12 19:54:25 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:179MB] 
+Jan 12 19:54:25 client  robots: 6000
+Jan 12 19:54:26 client  load [cpu0:0%] [cpu1:0%] [cpu2:40%] [cpu3:53%] 
+Jan 12 19:54:26 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:175MB] 
+Jan 12 19:54:26 client  robots: 6000
+Jan 12 19:54:27 client  load [cpu0:8%] [cpu1:3%] [cpu2:42%] [cpu3:50%] 
+Jan 12 19:54:27 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:170MB] 
+Jan 12 19:54:27 client  robots: 6000
+Jan 12 19:54:28 client  load [cpu0:0%] [cpu1:9%] [cpu2:34%] [cpu3:42%] 
+Jan 12 19:54:28 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:166MB] 
+Jan 12 19:54:28 client  robots: 6000
+Jan 12 19:54:29 client  load [cpu0:2%] [cpu1:1%] [cpu2:29%] [cpu3:47%] 
+Jan 12 19:54:29 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:165MB] 
+Jan 12 19:54:29 client  robots: 6000
+Jan 12 19:54:30 client  load [cpu0:2%] [cpu1:0%] [cpu2:44%] [cpu3:57%] 
+Jan 12 19:54:30 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:182MB] 
+Jan 12 19:54:30 client  robots: 7039
+Jan 12 19:54:31 client  load [cpu0:47%] [cpu1:28%] [cpu2:39%] [cpu3:45%] 
+Jan 12 19:54:31 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:199MB] 
+Jan 12 19:54:31 client  robots: 8000
+Jan 12 19:54:32 client  load [cpu0:59%] [cpu1:29%] [cpu2:30%] [cpu3:21%] 
+Jan 12 19:54:32 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:199MB] 
+Jan 12 19:54:32 client  robots: 8000
+Jan 12 19:54:33 client  load [cpu0:12%] [cpu1:27%] [cpu2:30%] [cpu3:33%] 
+Jan 12 19:54:33 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:200MB] 
+Jan 12 19:54:33 client  robots: 8000
+Jan 12 19:54:34 client  load [cpu0:31%] [cpu1:49%] [cpu2:5%] [cpu3:35%] 
+Jan 12 19:54:34 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:198MB] 
+Jan 12 19:54:34 client  robots: 8000
+Jan 12 19:54:35 client  load [cpu0:41%] [cpu1:32%] [cpu2:44%] [cpu3:0%] 
+Jan 12 19:54:35 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:196MB] 
+Jan 12 19:54:35 client  robots: 8000
+Jan 12 19:54:36 client  load [cpu0:59%] [cpu1:50%] [cpu2:48%] [cpu3:0%] 
+Jan 12 19:54:36 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:194MB] 
+Jan 12 19:54:36 client  robots: 8000
+Jan 12 19:54:37 client  load [cpu0:36%] [cpu1:47%] [cpu2:3%] [cpu3:58%] 
+Jan 12 19:54:37 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:194MB] 
+Jan 12 19:54:37 client  robots: 8000
+Jan 12 19:54:38 client  load [cpu0:0%] [cpu1:46%] [cpu2:50%] [cpu3:54%] 
+Jan 12 19:54:38 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:195MB] 
+Jan 12 19:54:38 client  robots: 8000
+Jan 12 19:54:39 client  load [cpu0:22%] [cpu1:0%] [cpu2:49%] [cpu3:57%] 
+Jan 12 19:54:39 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:195MB] 
+Jan 12 19:54:39 client  robots: 8000
+Jan 12 19:54:40 client  load [cpu0:56%] [cpu1:24%] [cpu2:34%] [cpu3:0%] 
+Jan 12 19:54:40 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:193MB] 
+Jan 12 19:54:40 client  robots: 8000
+Jan 12 19:54:41 client  load [cpu0:56%] [cpu1:35%] [cpu2:44%] [cpu3:1%] 
+Jan 12 19:54:41 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:188MB] 
+Jan 12 19:54:41 client  robots: 8000
+Jan 12 19:54:42 client  load [cpu0:48%] [cpu1:42%] [cpu2:38%] [cpu3:1%] 
+Jan 12 19:54:42 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:185MB] 
+Jan 12 19:54:42 client  robots: 8000
+Jan 12 19:54:43 client  load [cpu0:40%] [cpu1:40%] [cpu2:34%] [cpu3:12%] 
+Jan 12 19:54:43 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:183MB] 
+Jan 12 19:54:43 client  robots: 8000
+Jan 12 19:54:44 client  load [cpu0:58%] [cpu1:40%] [cpu2:0%] [cpu3:61%] 
+Jan 12 19:54:44 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:183MB] 
+Jan 12 19:54:44 client  robots: 8000
+Jan 12 19:54:45 client  load [cpu0:43%] [cpu1:14%] [cpu2:25%] [cpu3:58%] 
+Jan 12 19:54:45 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:198MB] 
+Jan 12 19:54:45 client  robots: 8903
+Jan 12 19:54:46 client  load [cpu0:43%] [cpu1:1%] [cpu2:40%] [cpu3:54%] 
+Jan 12 19:54:46 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:218MB] 
+Jan 12 19:54:46 client  robots: 10000
+Jan 12 19:54:47 client  load [cpu0:61%] [cpu1:63%] [cpu2:55%] [cpu3:50%] 
+Jan 12 19:54:47 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:228MB] 
+Jan 12 19:54:47 client  robots: 10000
+Jan 12 19:54:48 client  load [cpu0:20%] [cpu1:51%] [cpu2:49%] [cpu3:17%] 
+Jan 12 19:54:48 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:236MB] 
+Jan 12 19:54:48 client  robots: 10000
+Jan 12 19:54:49 client  load [cpu0:15%] [cpu1:49%] [cpu2:42%] [cpu3:6%] 
+Jan 12 19:54:49 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:242MB] 
+Jan 12 19:54:49 client  robots: 10000
+Jan 12 19:54:50 client  load [cpu0:49%] [cpu1:21%] [cpu2:41%] [cpu3:56%] 
+Jan 12 19:54:50 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:245MB] 
+Jan 12 19:54:50 client  robots: 10000
+Jan 12 19:54:51 client  load [cpu0:58%] [cpu1:50%] [cpu2:38%] [cpu3:42%] 
+Jan 12 19:54:51 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:247MB] 
+Jan 12 19:54:51 client  robots: 10000
+Jan 12 19:54:52 client  load [cpu0:52%] [cpu1:56%] [cpu2:20%] [cpu3:62%] 
+Jan 12 19:54:52 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:250MB] 
+Jan 12 19:54:52 client  robots: 10000
+Jan 12 19:54:53 client  load [cpu0:59%] [cpu1:9%] [cpu2:51%] [cpu3:67%] 
+Jan 12 19:54:53 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:251MB] 
+Jan 12 19:54:53 client  robots: 10000
+Jan 12 19:54:54 client  load [cpu0:44%] [cpu1:27%] [cpu2:49%] [cpu3:63%] 
+Jan 12 19:54:54 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:247MB] 
+Jan 12 19:54:54 client  robots: 10000
+Jan 12 19:54:55 client  load [cpu0:0%] [cpu1:58%] [cpu2:49%] [cpu3:70%] 
+Jan 12 19:54:55 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:241MB] 
+Jan 12 19:54:55 client  robots: 10000
+Jan 12 19:54:56 client  load [cpu0:39%] [cpu1:37%] [cpu2:52%] [cpu3:39%] 
+Jan 12 19:54:56 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:244MB] 
+Jan 12 19:54:56 client  robots: 10319
+Jan 12 19:54:57 client  load [cpu0:42%] [cpu1:23%] [cpu2:43%] [cpu3:48%] 
+Jan 12 19:54:57 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:262MB] 
+Jan 12 19:54:58 client  robots: 11284
+Jan 12 19:54:58 client  load [cpu0:55%] [cpu1:45%] [cpu2:52%] [cpu3:46%] 
+Jan 12 19:54:58 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:277MB] 
+Jan 12 19:54:59 client  robots: 12000
+Jan 12 19:54:59 client  load [cpu0:80%] [cpu1:53%] [cpu2:77%] [cpu3:77%] 
+Jan 12 19:54:59 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:287MB] 
+Jan 12 19:55:0 client  robots: 12000
+Jan 12 19:55:0 client  load [cpu0:62%] [cpu1:3%] [cpu2:45%] [cpu3:64%] 
+Jan 12 19:55:0 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:292MB] 
+Jan 12 19:55:1 client  robots: 12000
+Jan 12 19:55:1 client  load [cpu0:70%] [cpu1:2%] [cpu2:48%] [cpu3:70%] 
+Jan 12 19:55:1 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:293MB] 
+Jan 12 19:55:2 client  robots: 12000
+Jan 12 19:55:2 client  load [cpu0:67%] [cpu1:16%] [cpu2:31%] [cpu3:66%] 
+Jan 12 19:55:2 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:294MB] 
+Jan 12 19:55:3 client  robots: 12000
+Jan 12 19:55:4 client  load [cpu0:66%] [cpu1:61%] [cpu2:0%] [cpu3:66%] 
+Jan 12 19:55:4 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:294MB] 
+Jan 12 19:55:4 client  robots: 12000
+Jan 12 19:55:5 client  load [cpu0:70%] [cpu1:68%] [cpu2:52%] [cpu3:10%] 
+Jan 12 19:55:5 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:291MB] 
+Jan 12 19:55:5 client  robots: 12000
+Jan 12 19:55:6 client  load [cpu0:76%] [cpu1:64%] [cpu2:54%] [cpu3:0%] 
+Jan 12 19:55:6 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:285MB] 
+Jan 12 19:55:6 client  robots: 12000
+Jan 12 19:55:7 client  load [cpu0:69%] [cpu1:59%] [cpu2:56%] [cpu3:0%] 
+Jan 12 19:55:7 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:277MB] 
+Jan 12 19:55:7 client  robots: 12000
+Jan 12 19:55:8 client  load [cpu0:61%] [cpu1:48%] [cpu2:28%] [cpu3:39%] 
+Jan 12 19:55:8 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:292MB] 
+Jan 12 19:55:8 client  robots: 12976
+Jan 12 19:55:9 client  load [cpu0:51%] [cpu1:42%] [cpu2:33%] [cpu3:43%] 
+Jan 12 19:55:9 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:307MB] 
+Jan 12 19:55:9 client  robots: 13756
+Jan 12 19:55:10 client  load [cpu0:78%] [cpu1:81%] [cpu2:80%] [cpu3:70%] 
+Jan 12 19:55:10 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:323MB] 
+Jan 12 19:55:10 client  robots: 14000
+Jan 12 19:55:11 client  load [cpu0:72%] [cpu1:68%] [cpu2:70%] [cpu3:54%] 
+Jan 12 19:55:11 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:330MB] 
+Jan 12 19:55:11 client  robots: 14000
+Jan 12 19:55:12 client  load [cpu0:68%] [cpu1:61%] [cpu2:57%] [cpu3:24%] 
+Jan 12 19:55:12 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:331MB] 
+Jan 12 19:55:12 client  robots: 14000
+Jan 12 19:55:13 client  load [cpu0:68%] [cpu1:62%] [cpu2:59%] [cpu3:63%] 
+Jan 12 19:55:13 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:329MB] 
+Jan 12 19:55:13 client  robots: 14000
+Jan 12 19:55:14 client  load [cpu0:69%] [cpu1:65%] [cpu2:55%] [cpu3:51%] 
+Jan 12 19:55:14 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:329MB] 
+Jan 12 19:55:14 client  robots: 14000
+Jan 12 19:55:15 client  load [cpu0:69%] [cpu1:56%] [cpu2:57%] [cpu3:68%] 
+Jan 12 19:55:15 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:324MB] 
+Jan 12 19:55:15 client  robots: 14000
+Jan 12 19:55:16 client  load [cpu0:71%] [cpu1:64%] [cpu2:14%] [cpu3:73%] 
+Jan 12 19:55:16 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:316MB] 
+Jan 12 19:55:16 client  robots: 14000
+Jan 12 19:55:17 client  load [cpu0:65%] [cpu1:66%] [cpu2:3%] [cpu3:73%] 
+Jan 12 19:55:17 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:312MB] 
+Jan 12 19:55:17 client  robots: 14000
+Jan 12 19:55:18 client  load [cpu0:70%] [cpu1:1%] [cpu2:65%] [cpu3:67%] 
+Jan 12 19:55:18 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:312MB] 
+Jan 12 19:55:18 client  robots: 14000
+Jan 12 19:55:19 client  load [cpu0:48%] [cpu1:52%] [cpu2:59%] [cpu3:65%] 
+Jan 12 19:55:19 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:322MB] 
+Jan 12 19:55:19 client  robots: 14550
+Jan 12 19:55:20 client  load [cpu0:51%] [cpu1:67%] [cpu2:75%] [cpu3:68%] 
+Jan 12 19:55:20 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:344MB] 
+Jan 12 19:55:20 client  robots: 15713
+Jan 12 19:55:21 client  load [cpu0:70%] [cpu1:77%] [cpu2:72%] [cpu3:75%] 
+Jan 12 19:55:21 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:359MB] 
+Jan 12 19:55:21 client  robots: 16000
+Jan 12 19:55:22 client  load [cpu0:67%] [cpu1:12%] [cpu2:66%] [cpu3:74%] 
+Jan 12 19:55:22 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:363MB] 
+Jan 12 19:55:22 client  robots: 16000
+Jan 12 19:55:23 client  load [cpu0:66%] [cpu1:0%] [cpu2:66%] [cpu3:74%] 
+Jan 12 19:55:23 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:365MB] 
+Jan 12 19:55:23 client  robots: 16000
+Jan 12 19:55:24 client  load [cpu0:0%] [cpu1:49%] [cpu2:67%] [cpu3:66%] 
+Jan 12 19:55:24 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:367MB] 
+Jan 12 19:55:24 client  robots: 16000
+Jan 12 19:55:25 client  load [cpu0:0%] [cpu1:69%] [cpu2:68%] [cpu3:76%] 
+Jan 12 19:55:25 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:366MB] 
+Jan 12 19:55:25 client  robots: 16000
+Jan 12 19:55:26 client  load [cpu0:0%] [cpu1:77%] [cpu2:68%] [cpu3:77%] 
+Jan 12 19:55:26 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:358MB] 
+Jan 12 19:55:26 client  robots: 16000
+Jan 12 19:55:27 client  load [cpu0:32%] [cpu1:72%] [cpu2:56%] [cpu3:78%] 
+Jan 12 19:55:27 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:350MB] 
+Jan 12 19:55:27 client  robots: 16000
+Jan 12 19:55:28 client  load [cpu0:75%] [cpu1:68%] [cpu2:1%] [cpu3:77%] 
+Jan 12 19:55:28 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:347MB] 
+Jan 12 19:55:28 client  robots: 16000
+Jan 12 19:55:29 client  load [cpu0:77%] [cpu1:76%] [cpu2:0%] [cpu3:77%] 
+Jan 12 19:55:29 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:349MB] 
+Jan 12 19:55:29 client  robots: 16000
+Jan 12 19:55:30 client  load [cpu0:70%] [cpu1:66%] [cpu2:1%] [cpu3:74%] 
+Jan 12 19:55:30 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:351MB] 
+Jan 12 19:55:30 client  robots: 16000
+Jan 12 19:55:31 client  load [cpu0:63%] [cpu1:64%] [cpu2:12%] [cpu3:72%] 
+Jan 12 19:55:31 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:353MB] 
+Jan 12 19:55:31 client  robots: 16000
+Jan 12 19:55:32 client  load [cpu0:75%] [cpu1:29%] [cpu2:65%] [cpu3:72%] 
+Jan 12 19:55:32 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:355MB] 
+Jan 12 19:55:32 client  robots: 16000
+Jan 12 19:55:33 client  load [cpu0:69%] [cpu1:69%] [cpu2:70%] [cpu3:62%] 
+Jan 12 19:55:33 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:359MB] 
+Jan 12 19:55:33 client  robots: 16000
+Jan 12 19:55:34 client  load [cpu0:73%] [cpu1:69%] [cpu2:71%] [cpu3:55%] 
+Jan 12 19:55:34 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:363MB] 
+Jan 12 19:55:34 client  robots: 16000
+Jan 12 19:55:35 client  load [cpu0:70%] [cpu1:70%] [cpu2:63%] [cpu3:46%] 
+Jan 12 19:55:35 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:366MB] 
+Jan 12 19:55:35 client  robots: 16000
+Jan 12 19:55:36 client  load [cpu0:72%] [cpu1:27%] [cpu2:70%] [cpu3:79%] 
+Jan 12 19:55:36 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:368MB] 
+Jan 12 19:55:36 client  robots: 16000
+Jan 12 19:55:37 client  load [cpu0:73%] [cpu1:0%] [cpu2:74%] [cpu3:76%] 
+Jan 12 19:55:37 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:370MB] 
+Jan 12 19:55:37 client  robots: 16000
+Jan 12 19:55:38 client  load [cpu0:70%] [cpu1:62%] [cpu2:58%] [cpu3:73%] 
+Jan 12 19:55:38 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:370MB] 
+Jan 12 19:55:38 client  robots: 16000
+Jan 12 19:55:39 client  load [cpu0:74%] [cpu1:68%] [cpu2:14%] [cpu3:70%] 
+Jan 12 19:55:39 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:369MB] 
+Jan 12 19:55:39 client  robots: 16000
+Jan 12 19:55:40 client  load [cpu0:67%] [cpu1:73%] [cpu2:50%] [cpu3:72%] 
+Jan 12 19:55:40 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:370MB] 
+Jan 12 19:55:40 client  robots: 16047
+Jan 12 19:55:41 client  load [cpu0:43%] [cpu1:42%] [cpu2:49%] [cpu3:38%] 
+Jan 12 19:55:41 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:385MB] 
+Jan 12 19:55:41 client  robots: 16872
+Jan 12 19:55:42 client  load [cpu0:83%] [cpu1:82%] [cpu2:77%] [cpu3:79%] 
+Jan 12 19:55:42 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:407MB] 
+Jan 12 19:55:42 client  robots: 17794
+Jan 12 19:55:43 client  load [cpu0:92%] [cpu1:12%] [cpu2:90%] [cpu3:81%] 
+Jan 12 19:55:43 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:417MB] 
+Jan 12 19:55:43 client  robots: 18000
+Jan 12 19:55:44 client  load [cpu0:80%] [cpu1:57%] [cpu2:57%] [cpu3:74%] 
+Jan 12 19:55:44 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:420MB] 
+Jan 12 19:55:44 client  robots: 18000
+Jan 12 19:55:45 client  load [cpu0:74%] [cpu1:34%] [cpu2:48%] [cpu3:66%] 
+Jan 12 19:55:45 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:422MB] 
+Jan 12 19:55:45 client  robots: 18000
+Jan 12 19:55:46 client  load [cpu0:81%] [cpu1:1%] [cpu2:81%] [cpu3:82%] 
+Jan 12 19:55:46 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:421MB] 
+Jan 12 19:55:46 client  robots: 18000
+Jan 12 19:55:47 client  load [cpu0:74%] [cpu1:1%] [cpu2:76%] [cpu3:82%] 
+Jan 12 19:55:47 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:416MB] 
+Jan 12 19:55:47 client  robots: 18000
+Jan 12 19:55:48 client  load [cpu0:85%] [cpu1:57%] [cpu2:78%] [cpu3:83%] 
+Jan 12 19:55:48 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:411MB] 
+Jan 12 19:55:48 client  robots: 18000
+Jan 12 19:55:49 client  load [cpu0:79%] [cpu1:73%] [cpu2:79%] [cpu3:81%] 
+Jan 12 19:55:49 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:412MB] 
+Jan 12 19:55:49 client  robots: 18000
+Jan 12 19:55:50 client  load [cpu0:76%] [cpu1:78%] [cpu2:77%] [cpu3:75%] 
+Jan 12 19:55:50 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:415MB] 
+Jan 12 19:55:50 client  robots: 18000
+Jan 12 19:55:51 client  load [cpu0:80%] [cpu1:52%] [cpu2:73%] [cpu3:64%] 
+Jan 12 19:55:51 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:418MB] 
+Jan 12 19:55:51 client  robots: 18000
+Jan 12 19:55:52 client  load [cpu0:84%] [cpu1:77%] [cpu2:71%] [cpu3:21%] 
+Jan 12 19:55:52 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:421MB] 
+Jan 12 19:55:52 client  robots: 18000
+Jan 12 19:55:53 client  load [cpu0:79%] [cpu1:58%] [cpu2:71%] [cpu3:74%] 
+Jan 12 19:55:53 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:423MB] 
+Jan 12 19:55:53 client  robots: 18000
+Jan 12 19:55:54 client  load [cpu0:67%] [cpu1:50%] [cpu2:69%] [cpu3:72%] 
+Jan 12 19:55:54 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:440MB] 
+Jan 12 19:55:54 client  robots: 18733
+Jan 12 19:55:55 client  load [cpu0:98%] [cpu1:91%] [cpu2:89%] [cpu3:94%] 
+Jan 12 19:55:55 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:466MB] 
+Jan 12 19:55:55 client  robots: 19983
+Jan 12 19:55:56 client  load [cpu0:84%] [cpu1:87%] [cpu2:83%] [cpu3:50%] 
+Jan 12 19:55:56 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:476MB] 
+Jan 12 19:55:56 client  robots: 20000
+Jan 12 19:55:57 client  load [cpu0:79%] [cpu1:84%] [cpu2:84%] [cpu3:8%] 
+Jan 12 19:55:57 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:476MB] 
+Jan 12 19:55:57 client  robots: 20000
+Jan 12 19:55:58 client  load [cpu0:88%] [cpu1:77%] [cpu2:82%] [cpu3:67%] 
+Jan 12 19:55:58 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:476MB] 
+Jan 12 19:55:58 client  robots: 20000
+Jan 12 19:55:59 client  load [cpu0:81%] [cpu1:77%] [cpu2:73%] [cpu3:39%] 
+Jan 12 19:55:59 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:472MB] 
+Jan 12 19:55:59 client  robots: 20000
+Jan 12 19:56:0 client  load [cpu0:87%] [cpu1:59%] [cpu2:84%] [cpu3:90%] 
+Jan 12 19:56:0 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:460MB] 
+Jan 12 19:56:0 client  robots: 20000
+Jan 12 19:56:1 client  load [cpu0:87%] [cpu1:5%] [cpu2:82%] [cpu3:90%] 
+Jan 12 19:56:1 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:454MB] 
+Jan 12 19:56:1 client  robots: 20000
+Jan 12 19:56:2 client  load [cpu0:85%] [cpu1:7%] [cpu2:81%] [cpu3:92%] 
+Jan 12 19:56:2 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:459MB] 
+Jan 12 19:56:2 client  robots: 20000
+Jan 12 19:56:3 client  load [cpu0:86%] [cpu1:5%] [cpu2:80%] [cpu3:90%] 
+Jan 12 19:56:3 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:463MB] 
+Jan 12 19:56:3 client  robots: 20000
+Jan 12 19:56:4 client  load [cpu0:88%] [cpu1:61%] [cpu2:85%] [cpu3:92%] 
+Jan 12 19:56:4 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:466MB] 
+Jan 12 19:56:4 client  robots: 20000
+Jan 12 19:56:5 client  load [cpu0:83%] [cpu1:35%] [cpu2:85%] [cpu3:79%] 
+Jan 12 19:56:5 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:470MB] 
+Jan 12 19:56:5 client  robots: 20000
+Jan 12 19:56:6 client  load [cpu0:87%] [cpu1:37%] [cpu2:81%] [cpu3:83%] 
+Jan 12 19:56:6 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:472MB] 
+Jan 12 19:56:6 client  robots: 20000
+Jan 12 19:56:7 client  load [cpu0:97%] [cpu1:44%] [cpu2:84%] [cpu3:93%] 
+Jan 12 19:56:7 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:474MB] 
+Jan 12 19:56:7 client  robots: 20000
+Jan 12 19:56:8 client  load [cpu0:88%] [cpu1:86%] [cpu2:80%] [cpu3:83%] 
+Jan 12 19:56:8 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:474MB] 
+Jan 12 19:56:8 client  robots: 20000
+Jan 12 19:56:9 client  load [cpu0:93%] [cpu1:91%] [cpu2:78%] [cpu3:85%] 
+Jan 12 19:56:9 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:472MB] 
+Jan 12 19:56:9 client  robots: 20000
+Jan 12 19:56:10 client  load [cpu0:81%] [cpu1:81%] [cpu2:81%] [cpu3:87%] 
+Jan 12 19:56:10 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:494MB] 
+Jan 12 19:56:10 client  robots: 21137
+Jan 12 19:56:11 client  load [cpu0:80%] [cpu1:79%] [cpu2:76%] [cpu3:94%] 
+Jan 12 19:56:11 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:515MB] 
+Jan 12 19:56:11 client  robots: 22000
+Jan 12 19:56:12 client  load [cpu0:95%] [cpu1:32%] [cpu2:92%] [cpu3:90%] 
+Jan 12 19:56:12 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:517MB] 
+Jan 12 19:56:12 client  robots: 22000
+Jan 12 19:56:13 client  load [cpu0:81%] [cpu1:7%] [cpu2:77%] [cpu3:78%] 
+Jan 12 19:56:13 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:518MB] 
+Jan 12 19:56:13 client  robots: 22000
+Jan 12 19:56:14 client  load [cpu0:95%] [cpu1:56%] [cpu2:92%] [cpu3:93%] 
+Jan 12 19:56:14 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:520MB] 
+Jan 12 19:56:14 client  robots: 22000
+Jan 12 19:56:15 client  load [cpu0:100%] [cpu1:96%] [cpu2:96%] [cpu3:97%] 
+Jan 12 19:56:15 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:511MB] 
+Jan 12 19:56:15 client  robots: 22000
+Jan 12 19:56:16 client  load [cpu0:100%] [cpu1:94%] [cpu2:97%] [cpu3:97%] 
+Jan 12 19:56:16 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:505MB] 
+Jan 12 19:56:17 client  robots: 22000
+Jan 12 19:56:17 client  load [cpu0:96%] [cpu1:97%] [cpu2:90%] [cpu3:91%] 
+Jan 12 19:56:17 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:507MB] 
+Jan 12 19:56:18 client  robots: 22000
+Jan 12 19:56:18 client  load [cpu0:98%] [cpu1:86%] [cpu2:93%] [cpu3:95%] 
+Jan 12 19:56:18 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:512MB] 
+Jan 12 19:56:19 client  robots: 22000
+Jan 12 19:56:19 client  load [cpu0:97%] [cpu1:97%] [cpu2:94%] [cpu3:64%] 
+Jan 12 19:56:19 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:512MB] 
+Jan 12 19:56:20 client  robots: 22000
+Jan 12 19:56:20 client  load [cpu0:93%] [cpu1:91%] [cpu2:94%] [cpu3:71%] 
+Jan 12 19:56:20 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:527MB] 
+Jan 12 19:56:21 client  robots: 23068
+Jan 12 19:56:21 client  load [cpu0:92%] [cpu1:86%] [cpu2:88%] [cpu3:89%] 
+Jan 12 19:56:21 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:548MB] 
+Jan 12 19:56:22 client  robots: 24000
+Jan 12 19:56:22 client  load [cpu0:95%] [cpu1:92%] [cpu2:94%] [cpu3:94%] 
+Jan 12 19:56:22 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:559MB] 
+Jan 12 19:56:23 client  robots: 24000
+Jan 12 19:56:23 client  load [cpu0:95%] [cpu1:92%] [cpu2:94%] [cpu3:93%] 
+Jan 12 19:56:23 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:580MB] 
+Jan 12 19:56:24 client  robots: 24000
+Jan 12 19:56:24 client  load [cpu0:96%] [cpu1:90%] [cpu2:94%] [cpu3:96%] 
+Jan 12 19:56:25 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:581MB] 
+Jan 12 19:56:25 client  robots: 24000
+Jan 12 19:56:26 client  load [cpu0:100%] [cpu1:97%] [cpu2:97%] [cpu3:98%] 
+Jan 12 19:56:26 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:582MB] 
+Jan 12 19:56:26 client  robots: 24000
+Jan 12 19:56:27 client  load [cpu0:95%] [cpu1:93%] [cpu2:95%] [cpu3:96%] 
+Jan 12 19:56:27 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:579MB] 
+Jan 12 19:56:27 client  robots: 24000
+Jan 12 19:56:28 client  load [cpu0:97%] [cpu1:98%] [cpu2:94%] [cpu3:97%] 
+Jan 12 19:56:28 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:578MB] 
+Jan 12 19:56:28 client  robots: 24000
+Jan 12 19:56:29 client  load [cpu0:98%] [cpu1:88%] [cpu2:92%] [cpu3:93%] 
+Jan 12 19:56:29 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:575MB] 
+Jan 12 19:56:29 client  robots: 24000
+Jan 12 19:56:30 client  load [cpu0:98%] [cpu1:69%] [cpu2:96%] [cpu3:96%] 
+Jan 12 19:56:30 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:574MB] 
+Jan 12 19:56:30 client  robots: 24000
+Jan 12 19:56:31 client  load [cpu0:95%] [cpu1:31%] [cpu2:92%] [cpu3:91%] 
+Jan 12 19:56:31 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:577MB] 
+Jan 12 19:56:31 client  robots: 24000
+Jan 12 19:56:32 client  load [cpu0:97%] [cpu1:100%] [cpu2:95%] [cpu3:96%] 
+Jan 12 19:56:32 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:580MB] 
+Jan 12 19:56:32 client  robots: 24000
+Jan 12 19:56:33 client  load [cpu0:99%] [cpu1:100%] [cpu2:97%] [cpu3:97%] 
+Jan 12 19:56:33 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:584MB] 
+Jan 12 19:56:33 client  robots: 24000
+Jan 12 19:56:34 client  load [cpu0:99%] [cpu1:100%] [cpu2:96%] [cpu3:95%] 
+Jan 12 19:56:34 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:585MB] 
+Jan 12 19:56:34 client  robots: 24001
+Jan 12 19:56:35 client  load [cpu0:100%] [cpu1:100%] [cpu2:92%] [cpu3:96%] 
+Jan 12 19:56:35 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:586MB] 
+Jan 12 19:56:36 client  robots: 24001
+Jan 12 19:56:36 client  load [cpu0:99%] [cpu1:100%] [cpu2:95%] [cpu3:98%] 
+Jan 12 19:56:36 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:586MB] 
+Jan 12 19:56:37 client  robots: 24001
+Jan 12 19:56:37 client  load [cpu0:97%] [cpu1:78%] [cpu2:98%] [cpu3:95%] 
+Jan 12 19:56:37 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:592MB] 
+Jan 12 19:56:38 client  robots: 24001
+Jan 12 19:56:38 client  load [cpu0:95%] [cpu1:100%] [cpu2:93%] [cpu3:96%] 
+Jan 12 19:56:39 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:591MB] 
+Jan 12 19:56:39 client  robots: 24001
+Jan 12 19:56:40 client  load [cpu0:99%] [cpu1:100%] [cpu2:91%] [cpu3:97%] 
+Jan 12 19:56:41 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:594MB] 
+Jan 12 19:56:41 client  robots: 24001
+Jan 12 19:56:42 client  load [cpu0:98%] [cpu1:100%] [cpu2:95%] [cpu3:93%] 
+Jan 12 19:56:42 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:594MB] 
+Jan 12 19:56:42 client  robots: 24001
+Jan 12 19:56:43 client  load [cpu0:97%] [cpu1:100%] [cpu2:100%] [cpu3:97%] 
+Jan 12 19:56:43 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:594MB] 
+Jan 12 19:56:43 client  robots: 24001
+Jan 12 19:56:44 client  load [cpu0:95%] [cpu1:100%] [cpu2:96%] [cpu3:97%] 
+Jan 12 19:56:44 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:592MB] 
+Jan 12 19:56:44 client  robots: 24001
+Jan 12 19:56:45 client  load [cpu0:98%] [cpu1:100%] [cpu2:95%] [cpu3:97%] 
+Jan 12 19:56:45 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:595MB] 
+Jan 12 19:56:45 client  robots: 24001
+Jan 12 19:56:46 client  load [cpu0:97%] [cpu1:100%] [cpu2:94%] [cpu3:96%] 
+Jan 12 19:56:46 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:600MB] 
+Jan 12 19:56:46 client  robots: 24001
+Jan 12 19:56:47 client  load [cpu0:100%] [cpu1:100%] [cpu2:93%] [cpu3:96%] 
+Jan 12 19:56:47 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:600MB] 
+Jan 12 19:56:47 client  robots: 24001
+Jan 12 19:56:48 client  load [cpu0:98%] [cpu1:100%] [cpu2:97%] [cpu3:94%] 
+Jan 12 19:56:48 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:604MB] 
+Jan 12 19:56:49 client  robots: 24001
+Jan 12 19:56:49 client  load [cpu0:92%] [cpu1:100%] [cpu2:87%] [cpu3:88%] 
+Jan 12 19:56:50 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:605MB] 
+Jan 12 19:56:50 client  robots: 24001
+Jan 12 19:56:51 client  load [cpu0:97%] [cpu1:100%] [cpu2:96%] [cpu3:98%] 
+Jan 12 19:56:51 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:606MB] 
+Jan 12 19:56:51 client  robots: 24001
+Jan 12 19:56:52 client  load [cpu0:100%] [cpu1:100%] [cpu2:95%] [cpu3:98%] 
+Jan 12 19:56:52 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:607MB] 
+Jan 12 19:56:52 client  robots: 24001
+Jan 12 19:56:53 client  load [cpu0:98%] [cpu1:100%] [cpu2:96%] [cpu3:100%] 
+Jan 12 19:56:53 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:608MB] 
+Jan 12 19:56:53 client  robots: 24001
+Jan 12 19:56:54 client  load [cpu0:99%] [cpu1:100%] [cpu2:96%] [cpu3:96%] 
+Jan 12 19:56:55 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:614MB] 
+Jan 12 19:56:55 client  robots: 24001
+Jan 12 19:56:56 client  load [cpu0:86%] [cpu1:100%] [cpu2:83%] [cpu3:80%] 
+Jan 12 19:56:56 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:617MB] 
+Jan 12 19:56:56 client  robots: 24001
+Jan 12 19:56:57 client  load [cpu0:99%] [cpu1:100%] [cpu2:99%] [cpu3:98%] 
+Jan 12 19:56:57 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:616MB] 
+Jan 12 19:56:57 client  robots: 24001
+Jan 12 19:56:58 client  load [cpu0:78%] [cpu1:100%] [cpu2:75%] [cpu3:65%] 
+Jan 12 19:56:58 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:614MB] 
+Jan 12 19:56:58 client  robots: 24001
+Jan 12 19:56:59 client  load [cpu0:88%] [cpu1:100%] [cpu2:87%] [cpu3:83%] 
+Jan 12 19:56:59 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:615MB] 
+Jan 12 19:56:59 client  robots: 24001
+Jan 12 19:57:0 client  load [cpu0:99%] [cpu1:100%] [cpu2:98%] [cpu3:99%] 
+Jan 12 19:57:1 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:620MB] 
+Jan 12 19:57:1 client  robots: 24001
+Jan 12 19:57:2 client  load [cpu0:98%] [cpu1:100%] [cpu2:98%] [cpu3:98%] 
+Jan 12 19:57:2 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:626MB] 
+Jan 12 19:57:2 client  robots: 24001
+Jan 12 19:57:3 client  load [cpu0:79%] [cpu1:100%] [cpu2:84%] [cpu3:81%] 
+Jan 12 19:57:3 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:620MB] 
+Jan 12 19:57:4 client  robots: 24001
+Jan 12 19:57:4 client  load [cpu0:98%] [cpu1:100%] [cpu2:97%] [cpu3:96%] 
+Jan 12 19:57:4 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:618MB] 
+Jan 12 19:57:5 client  robots: 24001
+Jan 12 19:57:5 client  load [cpu0:98%] [cpu1:100%] [cpu2:94%] [cpu3:93%] 
+Jan 12 19:57:5 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:620MB] 
+Jan 12 19:57:6 client  robots: 24001
+Jan 12 19:57:6 client  load [cpu0:95%] [cpu1:100%] [cpu2:93%] [cpu3:97%] 
+Jan 12 19:57:6 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:617MB] 
+Jan 12 19:57:7 client  robots: 24001
+Jan 12 19:57:7 client  load [cpu0:100%] [cpu1:100%] [cpu2:98%] [cpu3:93%] 
+Jan 12 19:57:7 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:623MB] 
+Jan 12 19:57:8 client  load [cpu0:100%] [cpu1:100%] [cpu2:98%] [cpu3:94%] 
+Jan 12 19:57:8 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:625MB] 
+Jan 12 19:57:8 client  robots: 24001
+Jan 12 19:57:9 client  load [cpu0:32%] [cpu1:100%] [cpu2:97%] [cpu3:92%] 
+Jan 12 19:57:9 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:624MB] 
+Jan 12 19:57:9 client  robots: 24001
+Jan 12 19:57:10 client  load [cpu0:100%] [cpu1:100%] [cpu2:96%] [cpu3:97%] 
+Jan 12 19:57:10 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:623MB] 
+Jan 12 19:57:10 client  robots: 24001
+Jan 12 19:57:11 client  load [cpu0:94%] [cpu1:100%] [cpu2:89%] [cpu3:84%] 
+Jan 12 19:57:11 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:623MB] 
+Jan 12 19:57:11 client  robots: 24001
+Jan 12 19:57:12 client  load [cpu0:98%] [cpu1:100%] [cpu2:93%] [cpu3:91%] 
+Jan 12 19:57:13 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:625MB] 
+Jan 12 19:57:13 client  robots: 24001
+Jan 12 19:57:14 client  load [cpu0:100%] [cpu1:100%] [cpu2:89%] [cpu3:96%] 
+Jan 12 19:57:14 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:622MB] 
+Jan 12 19:57:14 client  robots: 24001
+Jan 12 19:57:15 client  load [cpu0:100%] [cpu1:100%] [cpu2:98%] [cpu3:98%] 
+Jan 12 19:57:15 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:619MB] 
+Jan 12 19:57:15 client  robots: 24001
+Jan 12 19:57:16 client  load [cpu0:85%] [cpu1:100%] [cpu2:83%] [cpu3:82%] 
+Jan 12 19:57:16 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:628MB] 
+Jan 12 19:57:16 client  robots: 24001
+Jan 12 19:57:17 client  load [cpu0:56%] [cpu1:100%] [cpu2:38%] [cpu3:56%] 
+Jan 12 19:57:17 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:623MB] 
+Jan 12 19:57:17 client  robots: 24001
+Jan 12 19:57:18 client  load [cpu0:65%] [cpu1:100%] [cpu2:46%] [cpu3:77%] 
+Jan 12 19:57:18 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:625MB] 
+Jan 12 19:57:18 client  robots: 24001
+Jan 12 19:57:19 client  load [cpu0:99%] [cpu1:100%] [cpu2:92%] [cpu3:97%] 
+Jan 12 19:57:19 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:625MB] 
+Jan 12 19:57:19 client  robots: 24001
+Jan 12 19:57:20 client  load [cpu0:100%] [cpu1:100%] [cpu2:97%] [cpu3:98%] 
+Jan 12 19:57:20 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:622MB] 
+Jan 12 19:57:20 client  robots: 24001
+Jan 12 19:57:21 client  load [cpu0:97%] [cpu1:100%] [cpu2:96%] [cpu3:97%] 
+Jan 12 19:57:21 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:626MB] 
+Jan 12 19:57:21 client  robots: 24001
+Jan 12 19:57:22 client  load [cpu0:96%] [cpu1:100%] [cpu2:97%] [cpu3:97%] 
+Jan 12 19:57:22 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:623MB] 
+Jan 12 19:57:22 client  robots: 24001
+Jan 12 19:57:23 client  load [cpu0:99%] [cpu1:100%] [cpu2:94%] [cpu3:99%] 
+Jan 12 19:57:23 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:626MB] 
+Jan 12 19:57:23 client  robots: 24001
+Jan 12 19:57:24 client  load [cpu0:96%] [cpu1:100%] [cpu2:94%] [cpu3:96%] 
+Jan 12 19:57:24 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:629MB] 
+Jan 12 19:57:24 client  robots: 24001
+Jan 12 19:57:25 client  load [cpu0:96%] [cpu1:100%] [cpu2:95%] [cpu3:98%] 
+Jan 12 19:57:25 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:627MB] 
+Jan 12 19:57:25 client  robots: 24001
+Jan 12 19:57:26 client  load [cpu0:100%] [cpu1:100%] [cpu2:98%] [cpu3:97%] 
+Jan 12 19:57:26 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:630MB] 
+Jan 12 19:57:26 client  robots: 24001
+Jan 12 19:57:27 client  load [cpu0:88%] [cpu1:100%] [cpu2:89%] [cpu3:84%] 
+Jan 12 19:57:28 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:628MB] 
+Jan 12 19:57:28 client  robots: 24001
+Jan 12 19:57:29 client  load [cpu0:43%] [cpu1:100%] [cpu2:42%] [cpu3:36%] 
+Jan 12 19:57:29 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:630MB] 
+Jan 12 19:57:29 client  robots: 24001
+Jan 12 19:57:30 client  load [cpu0:69%] [cpu1:100%] [cpu2:65%] [cpu3:57%] 
+Jan 12 19:57:30 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:632MB] 
+Jan 12 19:57:30 client  robots: 24001
+Jan 12 19:57:31 client  load [cpu0:92%] [cpu1:100%] [cpu2:87%] [cpu3:93%] 
+Jan 12 19:57:31 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:629MB] 
+Jan 12 19:57:31 client  robots: 24001
+Jan 12 19:57:32 client  load [cpu0:97%] [cpu1:100%] [cpu2:97%] [cpu3:94%] 
+Jan 12 19:57:32 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:626MB] 
+Jan 12 19:57:32 client  robots: 24001
+Jan 12 19:57:33 client  load [cpu0:98%] [cpu1:100%] [cpu2:95%] [cpu3:97%] 
+Jan 12 19:57:33 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:627MB] 
+Jan 12 19:57:33 client  robots: 24001
+Jan 12 19:57:34 client  load [cpu0:94%] [cpu1:100%] [cpu2:93%] [cpu3:90%] 
+Jan 12 19:57:34 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:629MB] 
+Jan 12 19:57:34 client  robots: 24001
+Jan 12 19:57:35 client  load [cpu0:96%] [cpu1:100%] [cpu2:96%] [cpu3:100%] 
+Jan 12 19:57:36 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:628MB] 
+Jan 12 19:57:36 client  robots: 24001
+Jan 12 19:57:37 client  load [cpu0:86%] [cpu1:100%] [cpu2:82%] [cpu3:75%] 
+Jan 12 19:57:37 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:633MB] 
+Jan 12 19:57:37 client  robots: 24001
+Jan 12 19:57:38 client  load [cpu0:98%] [cpu1:100%] [cpu2:94%] [cpu3:93%] 
+Jan 12 19:57:38 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:630MB] 
+Jan 12 19:57:38 client  robots: 24001
+Jan 12 19:57:39 client  load [cpu0:100%] [cpu1:100%] [cpu2:96%] [cpu3:97%] 
+Jan 12 19:57:39 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:631MB] 
+Jan 12 19:57:39 client  robots: 24001
+Jan 12 19:57:40 client  load [cpu0:96%] [cpu1:100%] [cpu2:95%] [cpu3:95%] 
+Jan 12 19:57:40 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:675MB] 
+Jan 12 19:57:40 client  robots: 24001
+Jan 12 19:57:41 client  load [cpu0:96%] [cpu1:100%] [cpu2:94%] [cpu3:95%] 
+Jan 12 19:57:41 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:682MB] 
+Jan 12 19:57:41 client  robots: 24001
+Jan 12 19:57:42 client  load [cpu0:99%] [cpu1:100%] [cpu2:96%] [cpu3:98%] 
+Jan 12 19:57:43 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:676MB] 
+Jan 12 19:57:43 client  robots: 24001
+Jan 12 19:57:44 client  load [cpu0:99%] [cpu1:100%] [cpu2:93%] [cpu3:96%] 
+Jan 12 19:57:44 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:674MB] 
+Jan 12 19:57:44 client  robots: 24001
+Jan 12 19:57:45 client  load [cpu0:99%] [cpu1:100%] [cpu2:98%] [cpu3:98%] 
+Jan 12 19:57:45 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:672MB] 
+Jan 12 19:57:45 client  robots: 24001
+Jan 12 19:57:46 client  load [cpu0:100%] [cpu1:100%] [cpu2:95%] [cpu3:96%] 
+Jan 12 19:57:46 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:673MB] 
+Jan 12 19:57:46 client  robots: 24001
+Jan 12 19:57:47 client  load [cpu0:98%] [cpu1:100%] [cpu2:98%] [cpu3:96%] 
+Jan 12 19:57:47 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:670MB] 
+Jan 12 19:57:47 client  robots: 24001
+Jan 12 19:57:48 client  load [cpu0:98%] [cpu1:100%] [cpu2:95%] [cpu3:95%] 
+Jan 12 19:57:48 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:674MB] 
+Jan 12 19:57:48 client  robots: 24001
+Jan 12 19:57:49 client  load [cpu0:99%] [cpu1:100%] [cpu2:96%] [cpu3:96%] 
+Jan 12 19:57:49 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:674MB] 
+Jan 12 19:57:49 client  robots: 24001
+Jan 12 19:57:50 client  load [cpu0:100%] [cpu1:100%] [cpu2:99%] [cpu3:98%] 
+Jan 12 19:57:50 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:675MB] 
+Jan 12 19:57:50 client  robots: 24001
+Jan 12 19:57:51 client  load [cpu0:99%] [cpu1:100%] [cpu2:95%] [cpu3:96%] 
+Jan 12 19:57:51 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:676MB] 
+Jan 12 19:57:51 client  robots: 24001
+Jan 12 19:57:52 client  load [cpu0:97%] [cpu1:100%] [cpu2:97%] [cpu3:92%] 
+Jan 12 19:57:52 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:679MB] 
+Jan 12 19:57:52 client  robots: 24001
+Jan 12 19:57:53 client  load [cpu0:99%] [cpu1:100%] [cpu2:97%] [cpu3:99%] 
+Jan 12 19:57:53 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:676MB] 
+Jan 12 19:57:53 client  robots: 24001
+Jan 12 19:57:54 client  load [cpu0:97%] [cpu1:100%] [cpu2:98%] [cpu3:96%] 
+Jan 12 19:57:55 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:674MB] 
+Jan 12 19:57:55 client  robots: 24001
+Jan 12 19:57:56 client  load [cpu0:97%] [cpu1:100%] [cpu2:96%] [cpu3:96%] 
+Jan 12 19:57:56 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:673MB] 
+Jan 12 19:57:56 client  robots: 24001
+Jan 12 19:57:57 client  load [cpu0:100%] [cpu1:100%] [cpu2:95%] [cpu3:99%] 
+Jan 12 19:57:57 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:672MB] 
+Jan 12 19:57:57 client  robots: 24001
+Jan 12 19:57:58 client  load [cpu0:59%] [cpu1:100%] [cpu2:56%] [cpu3:67%] 
+Jan 12 19:57:58 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:673MB] 
+Jan 12 19:57:58 client  robots: 24001
+Jan 12 19:57:59 client  load [cpu0:90%] [cpu1:100%] [cpu2:92%] [cpu3:93%] 
+Jan 12 19:57:59 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:680MB] 
+Jan 12 19:57:59 client  robots: 24001
+Jan 12 19:58:0 client  load [cpu0:98%] [cpu1:100%] [cpu2:96%] [cpu3:95%] 
+Jan 12 19:58:0 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:684MB] 
+Jan 12 19:58:0 client  robots: 24001
+Jan 12 19:58:1 client  load [cpu0:97%] [cpu1:100%] [cpu2:95%] [cpu3:99%] 
+Jan 12 19:58:1 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:685MB] 
+Jan 12 19:58:1 client  robots: 24001
+Jan 12 19:58:2 client  load [cpu0:100%] [cpu1:100%] [cpu2:97%] [cpu3:97%] 
+Jan 12 19:58:2 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:684MB] 
+Jan 12 19:58:2 client  robots: 24001
+Jan 12 19:58:3 client  load [cpu0:98%] [cpu1:100%] [cpu2:96%] [cpu3:97%] 
+Jan 12 19:58:3 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:684MB] 
+Jan 12 19:58:3 client  robots: 24001
+Jan 12 19:58:4 client  load [cpu0:99%] [cpu1:100%] [cpu2:97%] [cpu3:99%] 
+Jan 12 19:58:4 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:686MB] 
+Jan 12 19:58:4 client  robots: 24001
+Jan 12 19:58:5 client  load [cpu0:97%] [cpu1:100%] [cpu2:96%] [cpu3:96%] 
+Jan 12 19:58:5 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:686MB] 
+Jan 12 19:58:5 client  robots: 24001
+Jan 12 19:58:6 client  load [cpu0:98%] [cpu1:100%] [cpu2:95%] [cpu3:96%] 
+Jan 12 19:58:6 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:685MB] 
+Jan 12 19:58:6 client  robots: 24001
+Jan 12 19:58:7 client  load [cpu0:99%] [cpu1:100%] [cpu2:99%] [cpu3:95%] 
+Jan 12 19:58:7 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:685MB] 
+Jan 12 19:58:8 client  robots: 24001
+Jan 12 19:58:8 client  load [cpu0:98%] [cpu1:100%] [cpu2:98%] [cpu3:96%] 
+Jan 12 19:58:8 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:686MB] 
+Jan 12 19:58:9 client  robots: 24001
+Jan 12 19:58:9 client  load [cpu0:97%] [cpu1:100%] [cpu2:96%] [cpu3:94%] 
+Jan 12 19:58:10 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:689MB] 
+Jan 12 19:58:10 client  robots: 24001
+Jan 12 19:58:11 client  load [cpu0:98%] [cpu1:100%] [cpu2:94%] [cpu3:95%] 
+Jan 12 19:58:11 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:687MB] 
+Jan 12 19:58:11 client  robots: 24001
+Jan 12 19:58:12 client  load [cpu0:100%] [cpu1:100%] [cpu2:95%] [cpu3:99%] 
+Jan 12 19:58:12 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:684MB] 
+Jan 12 19:58:12 client  robots: 24001
+Jan 12 19:58:13 client  load [cpu0:96%] [cpu1:100%] [cpu2:97%] [cpu3:97%] 
+Jan 12 19:58:13 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:685MB] 
+Jan 12 19:58:13 client  robots: 24001
+Jan 12 19:58:14 client  load [cpu0:100%] [cpu1:100%] [cpu2:98%] [cpu3:97%] 
+Jan 12 19:58:14 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:687MB] 
+Jan 12 19:58:14 client  robots: 24001
+Jan 12 19:58:15 client  load [cpu0:98%] [cpu1:100%] [cpu2:91%] [cpu3:94%] 
+Jan 12 19:58:15 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:683MB] 
+Jan 12 19:58:16 client  robots: 24001
+Jan 12 19:58:16 client  load [cpu0:100%] [cpu1:100%] [cpu2:100%] [cpu3:96%] 
+Jan 12 19:58:16 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:682MB] 
+Jan 12 19:58:17 client  robots: 24001
+Jan 12 19:58:17 client  load [cpu0:97%] [cpu1:100%] [cpu2:94%] [cpu3:98%] 
+Jan 12 19:58:17 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:693MB] 
+Jan 12 19:58:18 client  robots: 24001
+Jan 12 19:58:18 client  load [cpu0:100%] [cpu1:100%] [cpu2:97%] [cpu3:97%] 
+Jan 12 19:58:18 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:689MB] 
+Jan 12 19:58:19 client  robots: 24001
+Jan 12 19:58:19 client  load [cpu0:97%] [cpu1:100%] [cpu2:95%] [cpu3:99%] 
+Jan 12 19:58:19 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:687MB] 
+Jan 12 19:58:20 client  robots: 24001
+Jan 12 19:58:20 client  load [cpu0:66%] [cpu1:100%] [cpu2:68%] [cpu3:64%] 
+Jan 12 19:58:20 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:686MB] 
+Jan 12 19:58:21 client  robots: 24001
+Jan 12 19:58:21 client  load [cpu0:100%] [cpu1:100%] [cpu2:98%] [cpu3:97%] 
+Jan 12 19:58:21 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:687MB] 
+Jan 12 19:58:22 client  robots: 24001
+Jan 12 19:58:22 client  load [cpu0:98%] [cpu1:100%] [cpu2:97%] [cpu3:99%] 
+Jan 12 19:58:22 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:685MB] 
+Jan 12 19:58:23 client  load [cpu0:98%] [cpu1:100%] [cpu2:98%] [cpu3:96%] 
+Jan 12 19:58:23 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:689MB] 
+Jan 12 19:58:23 client  robots: 24001
+Jan 12 19:58:24 client  load [cpu0:69%] [cpu1:100%] [cpu2:88%] [cpu3:98%] 
+Jan 12 19:58:24 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:702MB] 
+Jan 12 19:58:25 client  robots: 24001
+Jan 12 19:58:25 client  load [cpu0:99%] [cpu1:100%] [cpu2:98%] [cpu3:96%] 
+Jan 12 19:58:25 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:701MB] 
+Jan 12 19:58:26 client  robots: 24001
+Jan 12 19:58:26 client  load [cpu0:100%] [cpu1:100%] [cpu2:98%] [cpu3:98%] 
+Jan 12 19:58:26 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:701MB] 
+Jan 12 19:58:27 client  robots: 24001
+Jan 12 19:58:27 client  load [cpu0:97%] [cpu1:100%] [cpu2:97%] [cpu3:98%] 
+Jan 12 19:58:27 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:700MB] 
+Jan 12 19:58:28 client  robots: 24001
+Jan 12 19:58:28 client  load [cpu0:99%] [cpu1:100%] [cpu2:95%] [cpu3:97%] 
+Jan 12 19:58:28 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:701MB] 
+Jan 12 19:58:29 client  robots: 24001
+Jan 12 19:58:29 client  load [cpu0:100%] [cpu1:100%] [cpu2:96%] [cpu3:96%] 
+Jan 12 19:58:29 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:701MB] 
+Jan 12 19:58:30 client  robots: 24001
+Jan 12 19:58:30 client  load [cpu0:97%] [cpu1:100%] [cpu2:93%] [cpu3:97%] 
+Jan 12 19:58:30 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:701MB] 
+Jan 12 19:58:31 client  load [cpu0:97%] [cpu1:100%] [cpu2:94%] [cpu3:98%] 
+Jan 12 19:58:31 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:699MB] 
+Jan 12 19:58:31 client  robots: 24001
+Jan 12 19:58:32 client  load [cpu0:100%] [cpu1:100%] [cpu2:97%] [cpu3:99%] 
+Jan 12 19:58:32 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:701MB] 
+Jan 12 19:58:32 client  robots: 24001
+Jan 12 19:58:33 client  load [cpu0:99%] [cpu1:100%] [cpu2:95%] [cpu3:99%] 
+Jan 12 19:58:33 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:700MB] 
+Jan 12 19:58:33 client  robots: 24001
+Jan 12 19:58:34 client  load [cpu0:97%] [cpu1:100%] [cpu2:97%] [cpu3:96%] 
+Jan 12 19:58:34 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:703MB] 
+Jan 12 19:58:34 client  robots: 24001
+Jan 12 19:58:35 client  load [cpu0:100%] [cpu1:100%] [cpu2:92%] [cpu3:93%] 
+Jan 12 19:58:35 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:702MB] 
+Jan 12 19:58:35 client  robots: 24001
+Jan 12 19:58:36 client  load [cpu0:99%] [cpu1:100%] [cpu2:97%] [cpu3:93%] 
+Jan 12 19:58:37 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:703MB] 
+Jan 12 19:58:37 client  robots: 24001
+Jan 12 19:58:38 client  load [cpu0:99%] [cpu1:100%] [cpu2:96%] [cpu3:96%] 
+Jan 12 19:58:38 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:699MB] 
+Jan 12 19:58:38 client  robots: 24001
+Jan 12 19:58:39 client  load [cpu0:99%] [cpu1:100%] [cpu2:94%] [cpu3:97%] 
+Jan 12 19:58:39 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:702MB] 
+Jan 12 19:58:39 client  robots: 24001
+Jan 12 19:58:40 client  load [cpu0:100%] [cpu1:100%] [cpu2:94%] [cpu3:98%] 
+Jan 12 19:58:40 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:702MB] 
+Jan 12 19:58:40 client  robots: 24001
+Jan 12 19:58:41 client  load [cpu0:97%] [cpu1:100%] [cpu2:97%] [cpu3:94%] 
+Jan 12 19:58:41 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:700MB] 
+Jan 12 19:58:41 client  robots: 24001
+Jan 12 19:58:42 client  load [cpu0:99%] [cpu1:100%] [cpu2:96%] [cpu3:98%] 
+Jan 12 19:58:42 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:704MB] 
+Jan 12 19:58:42 client  robots: 24001
+Jan 12 19:58:43 client  load [cpu0:96%] [cpu1:100%] [cpu2:95%] [cpu3:97%] 
+Jan 12 19:58:43 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:703MB] 
+Jan 12 19:58:43 client  robots: 24001
+Jan 12 19:58:44 client  load [cpu0:47%] [cpu1:100%] [cpu2:45%] [cpu3:39%] 
+Jan 12 19:58:44 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:705MB] 
+Jan 12 19:58:44 client  robots: 24001
+Jan 12 19:58:45 client  load [cpu0:94%] [cpu1:100%] [cpu2:96%] [cpu3:92%] 
+Jan 12 19:58:45 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:707MB] 
+Jan 12 19:58:45 client  robots: 24001
+Jan 12 19:58:46 client  load [cpu0:98%] [cpu1:100%] [cpu2:100%] [cpu3:97%] 
+Jan 12 19:58:46 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:705MB] 
+Jan 12 19:58:47 client  robots: 24001
+Jan 12 19:58:47 client  load [cpu0:99%] [cpu1:100%] [cpu2:97%] [cpu3:98%] 
+Jan 12 19:58:48 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:706MB] 
+Jan 12 19:58:48 client  robots: 24001
+Jan 12 19:58:49 client  load [cpu0:99%] [cpu1:100%] [cpu2:96%] [cpu3:94%] 
+Jan 12 19:58:49 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:712MB] 
+Jan 12 19:58:49 client  robots: 24001
+Jan 12 19:58:50 client  load [cpu0:100%] [cpu1:100%] [cpu2:97%] [cpu3:98%] 
+Jan 12 19:58:50 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:706MB] 
+Jan 12 19:58:50 client  robots: 24001
+Jan 12 19:58:51 client  load [cpu0:98%] [cpu1:100%] [cpu2:96%] [cpu3:98%] 
+Jan 12 19:58:51 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:706MB] 
+Jan 12 19:58:51 client  robots: 24001
+Jan 12 19:58:52 client  load [cpu0:98%] [cpu1:100%] [cpu2:93%] [cpu3:96%] 
+Jan 12 19:58:52 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:710MB] 
+Jan 12 19:58:52 client  robots: 24001
+Jan 12 19:58:53 client  load [cpu0:99%] [cpu1:100%] [cpu2:95%] [cpu3:92%] 
+Jan 12 19:58:53 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:706MB] 
+Jan 12 19:58:54 client  robots: 24001
+Jan 12 19:58:54 client  load [cpu0:100%] [cpu1:100%] [cpu2:97%] [cpu3:97%] 
+Jan 12 19:58:54 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:710MB] 
+Jan 12 19:58:55 client  robots: 24001
+Jan 12 19:58:55 client  load [cpu0:93%] [cpu1:100%] [cpu2:99%] [cpu3:95%] 
+Jan 12 19:58:55 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:720MB] 
+Jan 12 19:58:56 client  robots: 24001
+Jan 12 19:58:56 client  load [cpu0:94%] [cpu1:100%] [cpu2:91%] [cpu3:95%] 
+Jan 12 19:58:57 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:720MB] 
+Jan 12 19:58:57 client  robots: 24001
+Jan 12 19:58:58 client  load [cpu0:98%] [cpu1:100%] [cpu2:97%] [cpu3:98%] 
+Jan 12 19:58:58 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:717MB] 
+Jan 12 19:58:58 client  robots: 24001
+Jan 12 19:58:59 client  load [cpu0:98%] [cpu1:100%] [cpu2:99%] [cpu3:97%] 
+Jan 12 19:58:59 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:721MB] 
+Jan 12 19:58:59 client  robots: 24001
+Jan 12 19:59:0 client  load [cpu0:96%] [cpu1:100%] [cpu2:92%] [cpu3:97%] 
+Jan 12 19:59:0 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:720MB] 
+Jan 12 19:59:0 client  robots: 24001
+Jan 12 19:59:1 client  load [cpu0:99%] [cpu1:100%] [cpu2:95%] [cpu3:93%] 
+Jan 12 19:59:1 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:722MB] 
+Jan 12 19:59:2 client  robots: 24001
+Jan 12 19:59:2 client  load [cpu0:93%] [cpu1:100%] [cpu2:98%] [cpu3:92%] 
+Jan 12 19:59:2 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:722MB] 
+Jan 12 19:59:3 client  robots: 24001
+Jan 12 19:59:3 client  load [cpu0:99%] [cpu1:100%] [cpu2:94%] [cpu3:97%] 
+Jan 12 19:59:3 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:723MB] 
+Jan 12 19:59:4 client  robots: 24001
+Jan 12 19:59:4 client  load [cpu0:97%] [cpu1:100%] [cpu2:97%] [cpu3:98%] 
+Jan 12 19:59:4 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:724MB] 
+Jan 12 19:59:5 client  load [cpu0:100%] [cpu1:100%] [cpu2:98%] [cpu3:97%] 
+Jan 12 19:59:5 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:719MB] 
+Jan 12 19:59:5 client  robots: 24001
+Jan 12 19:59:6 client  load [cpu0:100%] [cpu1:100%] [cpu2:96%] [cpu3:95%] 
+Jan 12 19:59:6 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:726MB] 
+Jan 12 19:59:7 client  robots: 24001
+Jan 12 19:59:7 client  load [cpu0:100%] [cpu1:100%] [cpu2:94%] [cpu3:97%] 
+Jan 12 19:59:7 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:721MB] 
+Jan 12 19:59:8 client  robots: 24001
+Jan 12 19:59:8 client  load [cpu0:100%] [cpu1:100%] [cpu2:96%] [cpu3:96%] 
+Jan 12 19:59:8 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:718MB] 
+Jan 12 19:59:9 client  robots: 24001
+Jan 12 19:59:9 client  load [cpu0:97%] [cpu1:100%] [cpu2:96%] [cpu3:97%] 
+Jan 12 19:59:10 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:720MB] 
+Jan 12 19:59:10 client  robots: 24001
+Jan 12 19:59:11 client  load [cpu0:97%] [cpu1:100%] [cpu2:98%] [cpu3:94%] 
+Jan 12 19:59:11 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:720MB] 
+Jan 12 19:59:11 client  robots: 24001
+Jan 12 19:59:12 client  load [cpu0:97%] [cpu1:100%] [cpu2:96%] [cpu3:96%] 
+Jan 12 19:59:12 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:719MB] 
+Jan 12 19:59:12 client  robots: 24001
+Jan 12 19:59:13 client  load [cpu0:96%] [cpu1:100%] [cpu2:97%] [cpu3:99%] 
+Jan 12 19:59:13 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:722MB] 
+Jan 12 19:59:13 client  robots: 24001
+Jan 12 19:59:14 client  load [cpu0:99%] [cpu1:100%] [cpu2:97%] [cpu3:94%] 
+Jan 12 19:59:14 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:720MB] 
+Jan 12 19:59:14 client  robots: 24001
+Jan 12 19:59:15 client  load [cpu0:85%] [cpu1:100%] [cpu2:81%] [cpu3:43%] 
+Jan 12 19:59:15 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:720MB] 
+Jan 12 19:59:15 client  robots: 24001
+Jan 12 19:59:16 client  load [cpu0:64%] [cpu1:100%] [cpu2:78%] [cpu3:46%] 
+Jan 12 19:59:16 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:724MB] 
+Jan 12 19:59:16 client  robots: 24001
+Jan 12 19:59:17 client  load [cpu0:97%] [cpu1:100%] [cpu2:96%] [cpu3:95%] 
+Jan 12 19:59:17 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:727MB] 
+Jan 12 19:59:17 client  robots: 24001
+Jan 12 19:59:18 client  load [cpu0:99%] [cpu1:100%] [cpu2:95%] [cpu3:99%] 
+Jan 12 19:59:18 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:724MB] 
+Jan 12 19:59:18 client  robots: 24001
+Jan 12 19:59:19 client  load [cpu0:100%] [cpu1:100%] [cpu2:95%] [cpu3:97%] 
+Jan 12 19:59:19 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:725MB] 
+Jan 12 19:59:19 client  robots: 24001
+Jan 12 19:59:20 client  load [cpu0:94%] [cpu1:100%] [cpu2:93%] [cpu3:94%] 
+Jan 12 19:59:20 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:725MB] 
+Jan 12 19:59:20 client  robots: 24001
+Jan 12 19:59:21 client  load [cpu0:99%] [cpu1:100%] [cpu2:99%] [cpu3:99%] 
+Jan 12 19:59:21 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:728MB] 
+Jan 12 19:59:21 client  robots: 24001
+Jan 12 19:59:22 client  load [cpu0:99%] [cpu1:100%] [cpu2:98%] [cpu3:96%] 
+Jan 12 19:59:23 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:725MB] 
+Jan 12 19:59:23 client  robots: 24001
+Jan 12 19:59:24 client  load [cpu0:99%] [cpu1:100%] [cpu2:98%] [cpu3:96%] 
+Jan 12 19:59:24 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:728MB] 
+Jan 12 19:59:24 client  robots: 24001
+Jan 12 19:59:25 client  load [cpu0:98%] [cpu1:100%] [cpu2:95%] [cpu3:98%] 
+Jan 12 19:59:25 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:723MB] 
+Jan 12 19:59:25 client  robots: 24001
+Jan 12 19:59:26 client  load [cpu0:100%] [cpu1:100%] [cpu2:95%] [cpu3:99%] 
+Jan 12 19:59:26 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:724MB] 
+Jan 12 19:59:26 client  robots: 24001
+Jan 12 19:59:27 client  load [cpu0:99%] [cpu1:100%] [cpu2:93%] [cpu3:94%] 
+Jan 12 19:59:28 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:724MB] 
+Jan 12 19:59:28 client  robots: 24001
+Jan 12 19:59:29 client  load [cpu0:97%] [cpu1:100%] [cpu2:93%] [cpu3:97%] 
+Jan 12 19:59:29 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:723MB] 
+Jan 12 19:59:29 client  robots: 24001
+Jan 12 19:59:30 client  load [cpu0:100%] [cpu1:100%] [cpu2:96%] [cpu3:99%] 
+Jan 12 19:59:30 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:723MB] 
+Jan 12 19:59:30 client  robots: 24001
+Jan 12 19:59:31 client  load [cpu0:100%] [cpu1:100%] [cpu2:97%] [cpu3:96%] 
+Jan 12 19:59:31 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:723MB] 
+Jan 12 19:59:31 client  robots: 24001
+Jan 12 19:59:32 client  load [cpu0:99%] [cpu1:100%] [cpu2:93%] [cpu3:98%] 
+Jan 12 19:59:32 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:723MB] 
+Jan 12 19:59:32 client  robots: 24001
+Jan 12 19:59:33 client  load [cpu0:99%] [cpu1:100%] [cpu2:96%] [cpu3:98%] 
+Jan 12 19:59:33 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:725MB] 
+Jan 12 19:59:33 client  robots: 24001
+Jan 12 19:59:34 client  load [cpu0:97%] [cpu1:100%] [cpu2:93%] [cpu3:96%] 
+Jan 12 19:59:34 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:726MB] 
+Jan 12 19:59:34 client  robots: 24001
+Jan 12 19:59:35 client  load [cpu0:74%] [cpu1:100%] [cpu2:75%] [cpu3:69%] 
+Jan 12 19:59:35 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:741MB] 
+Jan 12 19:59:35 client  robots: 24001
+Jan 12 19:59:36 client  load [cpu0:98%] [cpu1:100%] [cpu2:93%] [cpu3:99%] 
+Jan 12 19:59:37 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:743MB] 
+Jan 12 19:59:37 client  robots: 24001
+Jan 12 19:59:38 client  load [cpu0:95%] [cpu1:100%] [cpu2:94%] [cpu3:92%] 
+Jan 12 19:59:38 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:740MB] 
+Jan 12 19:59:38 client  robots: 24001
+Jan 12 19:59:39 client  load [cpu0:100%] [cpu1:100%] [cpu2:98%] [cpu3:99%] 
+Jan 12 19:59:39 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:740MB] 
+Jan 12 19:59:39 client  robots: 24001
+Jan 12 19:59:40 client  load [cpu0:98%] [cpu1:100%] [cpu2:97%] [cpu3:96%] 
+Jan 12 19:59:40 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:739MB] 
+Jan 12 19:59:40 client  robots: 24001
+Jan 12 19:59:41 client  load [cpu0:99%] [cpu1:100%] [cpu2:95%] [cpu3:93%] 
+Jan 12 19:59:41 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:744MB] 
+Jan 12 19:59:41 client  robots: 24001
+Jan 12 19:59:42 client  load [cpu0:100%] [cpu1:100%] [cpu2:93%] [cpu3:94%] 
+Jan 12 19:59:42 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:742MB] 
+Jan 12 19:59:42 client  robots: 24001
+Jan 12 19:59:43 client  load [cpu0:95%] [cpu1:100%] [cpu2:95%] [cpu3:95%] 
+Jan 12 19:59:43 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:744MB] 
+Jan 12 19:59:44 client  robots: 24001
+Jan 12 19:59:44 client  load [cpu0:98%] [cpu1:100%] [cpu2:95%] [cpu3:98%] 
+Jan 12 19:59:44 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:747MB] 
+Jan 12 19:59:45 client  robots: 24001
+Jan 12 19:59:45 client  load [cpu0:100%] [cpu1:100%] [cpu2:96%] [cpu3:99%] 
+Jan 12 19:59:46 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:750MB] 
+Jan 12 19:59:46 client  robots: 24001
+Jan 12 19:59:47 client  load [cpu0:24%] [cpu1:100%] [cpu2:66%] [cpu3:62%] 
+Jan 12 19:59:47 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:744MB] 
+Jan 12 19:59:47 client  robots: 24001
+Jan 12 19:59:48 client  load [cpu0:72%] [cpu1:100%] [cpu2:80%] [cpu3:87%] 
+Jan 12 19:59:48 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:747MB] 
+Jan 12 19:59:48 client  robots: 24001
+Jan 12 19:59:49 client  load [cpu0:79%] [cpu1:100%] [cpu2:98%] [cpu3:94%] 
+Jan 12 19:59:49 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:747MB] 
+Jan 12 19:59:49 client  robots: 24001
+Jan 12 19:59:50 client  load [cpu0:97%] [cpu1:100%] [cpu2:98%] [cpu3:98%] 
+Jan 12 19:59:50 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:743MB] 
+Jan 12 19:59:50 client  robots: 24001
+Jan 12 19:59:51 client  load [cpu0:99%] [cpu1:100%] [cpu2:95%] [cpu3:94%] 
+Jan 12 19:59:51 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:745MB] 
+Jan 12 19:59:51 client  robots: 24001
+Jan 12 19:59:52 client  load [cpu0:98%] [cpu1:100%] [cpu2:94%] [cpu3:98%] 
+Jan 12 19:59:52 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:746MB] 
+Jan 12 19:59:52 client  robots: 24001
+Jan 12 19:59:53 client  load [cpu0:100%] [cpu1:100%] [cpu2:94%] [cpu3:97%] 
+Jan 12 19:59:53 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:749MB] 
+Jan 12 19:59:53 client  robots: 24001
+Jan 12 19:59:54 client  load [cpu0:81%] [cpu1:100%] [cpu2:82%] [cpu3:80%] 
+Jan 12 19:59:54 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:753MB] 
+Jan 12 19:59:54 client  robots: 24001
+Jan 12 19:59:55 client  load [cpu0:69%] [cpu1:100%] [cpu2:72%] [cpu3:72%] 
+Jan 12 19:59:55 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:752MB] 
+Jan 12 19:59:55 client  robots: 24001
+Jan 12 19:59:56 client  load [cpu0:95%] [cpu1:100%] [cpu2:95%] [cpu3:94%] 
+Jan 12 19:59:56 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:753MB] 
+Jan 12 19:59:56 client  robots: 24001
+Jan 12 19:59:57 client  load [cpu0:96%] [cpu1:100%] [cpu2:98%] [cpu3:94%] 
+Jan 12 19:59:57 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:750MB] 
+Jan 12 19:59:57 client  robots: 24001
+Jan 12 19:59:58 client  load [cpu0:98%] [cpu1:100%] [cpu2:93%] [cpu3:96%] 
+Jan 12 19:59:58 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:748MB] 
+Jan 12 19:59:58 client  robots: 24001
+Jan 12 19:59:59 client  load [cpu0:100%] [cpu1:100%] [cpu2:95%] [cpu3:97%] 
+Jan 12 19:59:59 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:748MB] 
+Jan 12 20:0:0 client  robots: 24001
+Jan 12 20:0:0 client  load [cpu0:99%] [cpu1:100%] [cpu2:98%] [cpu3:100%] 
+Jan 12 20:0:0 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:745MB] 
+Jan 12 20:0:1 client  robots: 24001
+Jan 12 20:0:1 client  load [cpu0:100%] [cpu1:100%] [cpu2:92%] [cpu3:96%] 
+Jan 12 20:0:1 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:746MB] 
+Jan 12 20:0:2 client  robots: 24001
+Jan 12 20:0:2 client  load [cpu0:91%] [cpu1:100%] [cpu2:90%] [cpu3:81%] 
+Jan 12 20:0:3 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:745MB] 
+Jan 12 20:0:3 client  robots: 24001
+Jan 12 20:0:4 client  load [cpu0:42%] [cpu1:100%] [cpu2:60%] [cpu3:0%] 
+Jan 12 20:0:4 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:746MB] 
+Jan 12 20:0:4 client  robots: 24001
+Jan 12 20:0:5 client  load [cpu0:90%] [cpu1:100%] [cpu2:91%] [cpu3:79%] 
+Jan 12 20:0:5 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:753MB] 
+Jan 12 20:0:5 client  robots: 24001
+Jan 12 20:0:6 client  load [cpu0:98%] [cpu1:100%] [cpu2:94%] [cpu3:97%] 
+Jan 12 20:0:6 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:747MB] 
+Jan 12 20:0:6 client  robots: 24001
+Jan 12 20:0:7 client  load [cpu0:99%] [cpu1:100%] [cpu2:96%] [cpu3:99%] 
+Jan 12 20:0:7 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:747MB] 
+Jan 12 20:0:8 client  robots: 24001
+Jan 12 20:0:8 client  load [cpu0:94%] [cpu1:100%] [cpu2:97%] [cpu3:92%] 
+Jan 12 20:0:8 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:751MB] 
+Jan 12 20:0:9 client  robots: 24001
+Jan 12 20:0:9 client  load [cpu0:97%] [cpu1:100%] [cpu2:95%] [cpu3:96%] 
+Jan 12 20:0:9 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:754MB] 
+Jan 12 20:0:10 client  robots: 24001
+Jan 12 20:0:10 client  load [cpu0:98%] [cpu1:100%] [cpu2:97%] [cpu3:96%] 
+Jan 12 20:0:10 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:754MB] 
+Jan 12 20:0:11 client  robots: 24001
+Jan 12 20:0:11 client  load [cpu0:97%] [cpu1:100%] [cpu2:90%] [cpu3:96%] 
+Jan 12 20:0:11 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:754MB] 
+Jan 12 20:0:12 client  robots: 24001
+Jan 12 20:0:12 client  load [cpu0:99%] [cpu1:100%] [cpu2:94%] [cpu3:94%] 
+Jan 12 20:0:12 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:751MB] 
+Jan 12 20:0:13 client  robots: 24001
+Jan 12 20:0:13 client  load [cpu0:98%] [cpu1:100%] [cpu2:97%] [cpu3:95%] 
+Jan 12 20:0:13 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:750MB] 
+Jan 12 20:0:14 client  robots: 24001
+Jan 12 20:0:14 client  load [cpu0:97%] [cpu1:100%] [cpu2:94%] [cpu3:91%] 
+Jan 12 20:0:14 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:749MB] 
+Jan 12 20:0:15 client  robots: 24001
+Jan 12 20:0:15 client  load [cpu0:99%] [cpu1:64%] [cpu2:94%] [cpu3:93%] 
+Jan 12 20:0:16 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:752MB] 
+Jan 12 20:0:16 client  robots: 24001
+Jan 12 20:0:17 client  load [cpu0:94%] [cpu1:23%] [cpu2:94%] [cpu3:96%] 
+Jan 12 20:0:17 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:749MB] 
+Jan 12 20:0:18 client  robots: 24002
+Jan 12 20:0:18 client  load [cpu0:100%] [cpu1:69%] [cpu2:98%] [cpu3:82%] 
+Jan 12 20:0:18 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:752MB] 
+Jan 12 20:0:19 client  robots: 24146
+Jan 12 20:0:19 client  load [cpu0:97%] [cpu1:94%] [cpu2:96%] [cpu3:98%] 
+Jan 12 20:0:19 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:776MB] 
+Jan 12 20:0:20 client  robots: 25783
+Jan 12 20:0:20 client  load [cpu0:98%] [cpu1:98%] [cpu2:99%] [cpu3:33%] 
+Jan 12 20:0:20 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:791MB] 
+Jan 12 20:0:21 client  robots: 26001
+Jan 12 20:0:21 client  load [cpu0:99%] [cpu1:96%] [cpu2:94%] [cpu3:39%] 
+Jan 12 20:0:21 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:793MB] 
+Jan 12 20:0:22 client  robots: 26001
+Jan 12 20:0:22 client  load [cpu0:97%] [cpu1:69%] [cpu2:67%] [cpu3:66%] 
+Jan 12 20:0:22 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:790MB] 
+Jan 12 20:0:23 client  robots: 26004
+Jan 12 20:0:23 client  load [cpu0:92%] [cpu1:75%] [cpu2:93%] [cpu3:93%] 
+Jan 12 20:0:23 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:225MB] 
+Jan 12 20:0:24 client  load [cpu0:96%] [cpu1:92%] [cpu2:93%] [cpu3:94%] 
+Jan 12 20:0:24 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:226MB] 
+Jan 12 20:0:25 client  robots: 26004
+Jan 12 20:0:25 client  load [cpu0:99%] [cpu1:98%] [cpu2:95%] [cpu3:99%] 
+Jan 12 20:0:25 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:225MB] 
+Jan 12 20:0:26 client  robots: 26004
+Jan 12 20:0:26 client  load [cpu0:97%] [cpu1:94%] [cpu2:96%] [cpu3:95%] 
+Jan 12 20:0:26 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:226MB] 
+Jan 12 20:0:27 client  robots: 26004
+Jan 12 20:0:27 client  load [cpu0:99%] [cpu1:92%] [cpu2:90%] [cpu3:3%] 
+Jan 12 20:0:28 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:225MB] 
+Jan 12 20:0:28 client  robots: 26004
+Jan 12 20:0:29 client  load [cpu0:97%] [cpu1:93%] [cpu2:90%] [cpu3:10%] 
+Jan 12 20:0:29 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:224MB] 
+Jan 12 20:0:29 client  robots: 26004
+Jan 12 20:0:30 client  load [cpu0:97%] [cpu1:96%] [cpu2:96%] [cpu3:94%] 
+Jan 12 20:0:30 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:223MB] 
+Jan 12 20:0:30 client  robots: 26004
+Jan 12 20:0:31 client  load [cpu0:100%] [cpu1:93%] [cpu2:93%] [cpu3:95%] 
+Jan 12 20:0:31 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:222MB] 
+Jan 12 20:0:31 client  robots: 26004
+Jan 12 20:0:32 client  load [cpu0:98%] [cpu1:95%] [cpu2:94%] [cpu3:97%] 
+Jan 12 20:0:33 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:223MB] 
+Jan 12 20:0:33 client  robots: 26004
+Jan 12 20:0:34 client  load [cpu0:99%] [cpu1:95%] [cpu2:92%] [cpu3:97%] 
+Jan 12 20:0:34 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:222MB] 
+Jan 12 20:0:34 client  robots: 26004
+Jan 12 20:0:35 client  load [cpu0:98%] [cpu1:91%] [cpu2:94%] [cpu3:94%] 
+Jan 12 20:0:35 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:221MB] 
+Jan 12 20:0:35 client  robots: 26004
+Jan 12 20:0:36 client  load [cpu0:94%] [cpu1:96%] [cpu2:93%] [cpu3:93%] 
+Jan 12 20:0:36 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:222MB] 
+Jan 12 20:0:36 client  robots: 26004
+Jan 12 20:0:37 client  load [cpu0:97%] [cpu1:97%] [cpu2:94%] [cpu3:96%] 
+Jan 12 20:0:37 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:222MB] 
+Jan 12 20:0:37 client  robots: 26004
+Jan 12 20:0:38 client  load [cpu0:98%] [cpu1:94%] [cpu2:90%] [cpu3:92%] 
+Jan 12 20:0:38 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:242MB] 
+Jan 12 20:0:38 client  robots: 26004
+Jan 12 20:0:39 client  load [cpu0:96%] [cpu1:91%] [cpu2:91%] [cpu3:58%] 
+Jan 12 20:0:39 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:243MB] 
+Jan 12 20:0:39 client  robots: 26004
+Jan 12 20:0:40 client  load [cpu0:97%] [cpu1:91%] [cpu2:86%] [cpu3:8%] 
+Jan 12 20:0:40 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:242MB] 
+Jan 12 20:0:40 client  robots: 26004
+Jan 12 20:0:41 client  load [cpu0:99%] [cpu1:92%] [cpu2:91%] [cpu3:63%] 
+Jan 12 20:0:41 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:243MB] 
+Jan 12 20:0:41 client  robots: 26004
+Jan 12 20:0:42 client  load [cpu0:95%] [cpu1:94%] [cpu2:92%] [cpu3:100%] 
+Jan 12 20:0:42 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:243MB] 
+Jan 12 20:0:42 client  robots: 26004
+Jan 12 20:0:43 client  load [cpu0:97%] [cpu1:91%] [cpu2:89%] [cpu3:100%] 
+Jan 12 20:0:43 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:241MB] 
+Jan 12 20:0:43 client  robots: 26005
+Jan 12 20:0:44 client  load [cpu0:94%] [cpu1:88%] [cpu2:94%] [cpu3:100%] 
+Jan 12 20:0:44 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:243MB] 
+Jan 12 20:0:45 client  robots: 26005
+Jan 12 20:0:45 client  load [cpu0:97%] [cpu1:92%] [cpu2:91%] [cpu3:100%] 
+Jan 12 20:0:45 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:241MB] 
+Jan 12 20:0:46 client  robots: 26005
+Jan 12 20:0:46 client  load [cpu0:94%] [cpu1:92%] [cpu2:86%] [cpu3:100%] 
+Jan 12 20:0:46 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:241MB] 
+Jan 12 20:0:47 client  robots: 26005
+Jan 12 20:0:47 client  load [cpu0:98%] [cpu1:92%] [cpu2:88%] [cpu3:100%] 
+Jan 12 20:0:48 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:243MB] 
+Jan 12 20:0:48 client  robots: 26005
+Jan 12 20:0:49 client  load [cpu0:97%] [cpu1:92%] [cpu2:90%] [cpu3:100%] 
+Jan 12 20:0:49 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:241MB] 
+Jan 12 20:0:49 client  robots: 26006
+Jan 12 20:0:50 client  load [cpu0:98%] [cpu1:91%] [cpu2:93%] [cpu3:100%] 
+Jan 12 20:0:50 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:240MB] 
+Jan 12 20:0:50 client  robots: 26006
+Jan 12 20:0:51 client  load [cpu0:95%] [cpu1:92%] [cpu2:89%] [cpu3:100%] 
+Jan 12 20:0:51 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:243MB] 
+Jan 12 20:0:51 client  robots: 26006
+Jan 12 20:0:52 client  load [cpu0:96%] [cpu1:88%] [cpu2:91%] [cpu3:100%] 
+Jan 12 20:0:52 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:240MB] 
+Jan 12 20:0:52 client  robots: 26006
+Jan 12 20:0:53 client  load [cpu0:98%] [cpu1:85%] [cpu2:95%] [cpu3:77%] 
+Jan 12 20:0:53 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:243MB] 
+Jan 12 20:0:53 client  robots: 26007
+Jan 12 20:0:54 client  load [cpu0:97%] [cpu1:94%] [cpu2:93%] [cpu3:49%] 
+Jan 12 20:0:54 client  memory [connsrv:40MB] [accsrv:43MB] [charsrv:43MB] [underworld:245MB] 
+Jan 12 20:0:54 client  robots: 26007
